@@ -15,14 +15,14 @@ import { useTheme } from "./CountryTheme";
 
 const styles = StyleSheet.create({
     container: {
-        height: 48,
-        width: "15%",
+        height: 50,
+        width: "12%",
         alignItems: "center",
         justifyContent: "center"
     },
     imageStyle: {
-        height: 25,
-        width: 25,
+        height: 35,
+        width: 35,
         resizeMode: "contain"
     }
 });
@@ -35,7 +35,7 @@ interface CloseButtonProps {
 }
 
 const CloseButtonAndroid: React.FC<CloseButtonProps> = (props) => {
-    let closeImage: ImageSourcePropType = require("./assets/images/close.android.png");
+    let closeImage = require("./assets/images/close.ios.png");
 
     if (props.image) {
         closeImage = props.image;
@@ -43,17 +43,12 @@ const CloseButtonAndroid: React.FC<CloseButtonProps> = (props) => {
     const { onBackgroundTextColor } = useTheme();
     return (
         <View style={[styles.container, props.style]}>
-            <TouchableNativeFeedback
-                background={
-                    typeof Platform.Version === "number" && Platform.Version < 21
-                        ? TouchableNativeFeedback.SelectableBackground()
-                        : TouchableNativeFeedback.SelectableBackgroundBorderless()
-                }
-                onPress={props.onPress}>
+            <TouchableNativeFeedback onPress={props.onPress}>
                 <View>
                     <Image
+                        tintColor={onBackgroundTextColor}
                         source={closeImage}
-                        style={[styles.imageStyle, props.imageStyle, { tintColor: onBackgroundTextColor }]}
+                        style={[styles.imageStyle, props.imageStyle]}
                     />
                 </View>
             </TouchableNativeFeedback>

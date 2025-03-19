@@ -270,12 +270,3 @@ const PhoneInput = React.forwardRef<PhoneInputRefType, PhoneInputProps>((props, 
 });
 
 export default PhoneInput;
-
-export const isValidNumber = (number: string, countryCode: string): boolean => {
-    try {
-        const parsedNumber = phoneUtil.parse(number, countryCode);
-        return phoneUtil.isValidNumber(parsedNumber);
-    } catch (err) {
-        return false;
-    }
-};
