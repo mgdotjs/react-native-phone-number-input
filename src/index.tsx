@@ -251,7 +251,7 @@ const PhoneInput = React.forwardRef<PhoneInputRefType, PhoneInputProps>((props, 
                     )}
                     <TextInput
                         style={[styles.numberText, textInputStyle]}
-                        placeholder={placeholder || "Phone Number"}
+                        placeholder={placeholder}
                         onChangeText={onChangeText}
                         value={number || props.value || props.defaultValue || ""}
                         editable={!disabled}
