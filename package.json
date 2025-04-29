@@ -1,6 +1,6 @@
 {
     "name": "@linhnguyen96114/react-native-phone-input",
-    "version": "3.4.1",
+    "version": "3.4.2",
     "description": "React Native component for phone number",
     "source": "./src/index.tsx",
     "main": "./lib/commonjs/index.js",
