@@ -314,7 +314,8 @@ export const TranslationLanguageCodeList = [
     "svk",
     "fin",
     "zho",
-    "isr"
+    "isr",
+    "tur"
 ] as const;
 export type TranslationLanguageCode = (typeof TranslationLanguageCodeList)[number];
 
