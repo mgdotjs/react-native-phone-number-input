@@ -18,7 +18,7 @@ export declare const RegionList: readonly ["Africa", "Americas", "Antarctic", "A
 export type Region = (typeof RegionList)[number];
 export declare const SubregionList: readonly ["Southern Asia", "Southern Europe", "Northern Africa", "Polynesia", "Middle Africa", "Caribbean", "South America", "Western Asia", "Australia and New Zealand", "Western Europe", "Eastern Europe", "Central America", "Western Africa", "North America", "Southern Africa", "Eastern Africa", "South-Eastern Asia", "Eastern Asia", "Northern Europe", "Melanesia", "Micronesia", "Central Asia", "Central Europe"];
 export type Subregion = (typeof SubregionList)[number];
-export declare const TranslationLanguageCodeList: readonly ["common", "cym", "deu", "fra", "hrv", "ita", "jpn", "nld", "por", "rus", "spa", "svk", "fin", "zho", "isr", "tur"];
+export declare const TranslationLanguageCodeList: readonly ["common", "tur", "cym", "deu", "fra", "hrv", "ita", "jpn", "nld", "por", "rus", "spa", "svk", "fin", "zho", "isr"];
 export type TranslationLanguageCode = (typeof TranslationLanguageCodeList)[number];
 export declare enum FlagType {
     FLAT = "flat",

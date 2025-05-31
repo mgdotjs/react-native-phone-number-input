@@ -301,6 +301,7 @@ export type Subregion = (typeof SubregionList)[number];
 
 export const TranslationLanguageCodeList = [
     "common",
+    "tur",
     "cym",
     "deu",
     "fra",
@@ -314,8 +315,7 @@ export const TranslationLanguageCodeList = [
     "svk",
     "fin",
     "zho",
-    "isr",
-    "tur"
+    "isr"
 ] as const;
 export type TranslationLanguageCode = (typeof TranslationLanguageCodeList)[number];
 

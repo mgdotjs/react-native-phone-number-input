@@ -19,7 +19,7 @@ export interface CountryInfo {
 }
 export declare const getCountryInfoAsync: ({ countryCode, translation }: {
     countryCode: CountryCode;
-    translation?: "common" | "cym" | "deu" | "fra" | "hrv" | "ita" | "jpn" | "nld" | "por" | "rus" | "spa" | "svk" | "fin" | "zho" | "isr" | "tur" | undefined;
+    translation?: "common" | "tur" | "cym" | "deu" | "fra" | "hrv" | "ita" | "jpn" | "nld" | "por" | "rus" | "spa" | "svk" | "fin" | "zho" | "isr" | undefined;
 }) => Promise<CountryInfo>;
 export {};
 //# sourceMappingURL=CountryService.d.ts.map

@@ -7,6 +7,7 @@
     "flag": "flag-af",
     "name": {
       "common": "Afghanistan",
+      "tur": "Afganistan",
       "ces": "Afghánistán",
       "cym": "Affganistan",
       "deu": "Afghanistan",
@@ -24,7 +25,6 @@
       "zho": "阿富汗",
       "pol": "Afganistan",
       "urd": "افغانستان",
-      "tur": "Afganistan",
       "kor": "아프가니스탄"
     }
   },
@@ -36,6 +36,7 @@
     "flag": "flag-al",
     "name": {
       "common": "Albania",
+      "tur": "Arnavutluk",
       "ces": "Albánie",
       "cym": "Albania",
       "deu": "Albanien",
@@ -53,7 +54,6 @@
       "zho": "阿尔巴尼亚",
       "pol": "Albania",
       "urd": "البانیا",
-      "tur": "Türkçe",
       "kor": "알바니아"
     }
   },
@@ -65,6 +65,7 @@
     "flag": "flag-dz",
     "name": {
       "common": "Algeria",
+      "tur": "Cezayir",
       "ces": "Alžírsko",
       "cym": "Algeria",
       "deu": "Algerien",
@@ -82,7 +83,6 @@
       "zho": "阿尔及利亚",
       "pol": "Algieria",
       "urd": "الجزائر",
-      "tur": "Türkçe",
       "kor": "알제리"
     }
   },
@@ -94,6 +94,7 @@
     "flag": "flag-as",
     "name": {
       "common": "American Samoa",
+      "tur": "Amerikan Samoası",
       "ces": "Americká Samoa",
       "deu": "Amerikanisch-Samoa",
       "fra": "Samoa américaines",
@@ -110,7 +111,6 @@
       "zho": "美属萨摩亚",
       "pol": "Samoa Amerykańskie",
       "urd": "امریکی سمووا",
-      "tur": "Türkçe",
       "kor": "아메리칸사모아"
     }
   },
@@ -122,6 +122,7 @@
     "flag": "flag-ad",
     "name": {
       "common": "Andorra",
+      "tur": "Andorra",
       "ces": "Andorra",
       "cym": "Andorra",
       "deu": "Andorra",
@@ -139,7 +140,6 @@
       "zho": "安道尔",
       "pol": "Andora",
       "urd": "انڈورا",
-      "tur": "Türkçe",
       "kor": "안도라"
     }
   },
@@ -151,6 +151,7 @@
     "flag": "flag-ao",
     "name": {
       "common": "Angola",
+      "tur": "Angola",
       "ces": "Angola",
       "cym": "Angola",
       "deu": "Angola",
@@ -168,7 +169,6 @@
       "zho": "安哥拉",
       "pol": "Angola",
       "urd": "انگولہ",
-      "tur": "Türkçe",
       "kor": "앙골라"
     }
   },
@@ -180,6 +180,7 @@
     "flag": "flag-ai",
     "name": {
       "common": "Anguilla",
+      "tur": "Anguilla",
       "ces": "Anguilla",
       "deu": "Anguilla",
       "fra": "Anguilla",
@@ -196,7 +197,6 @@
       "zho": "安圭拉",
       "pol": "Anguilla",
       "urd": "اینگویلا",
-      "tur": "Türkçe",
       "kor": "앵귈라"
     }
   },
@@ -208,6 +208,7 @@
     "flag": "flag-aq",
     "name": {
       "common": "Antarctica",
+      "tur": "Antarktika",
       "ces": "Antarktida",
       "cym": "Yr Antarctig",
       "deu": "Antarktis",
@@ -225,7 +226,6 @@
       "zho": "南极洲",
       "pol": "Antarktyka",
       "urd": "انٹارکٹکا",
-      "tur": "Türkçe",
       "kor": "남극"
     }
   },
@@ -237,6 +237,7 @@
     "flag": "flag-ag",
     "name": {
       "common": "Antigua and Barbuda",
+      "tur": "Antigua ve Barbuda",
       "ces": "Antigua a Barbuda",
       "cym": "Antigwa a Barbiwda",
       "deu": "Antigua und Barbuda",
@@ -254,7 +255,6 @@
       "zho": "安提瓜和巴布达",
       "pol": "Antigua i Barbuda",
       "urd": "اینٹیگوا و باربوڈا",
-      "tur": "Türkçe",
       "kor": "앤티가 바부다"
     }
   },
@@ -266,6 +266,7 @@
     "flag": "flag-ar",
     "name": {
       "common": "Argentina",
+      "tur": "Arjantin",
       "ces": "Argentina",
       "cym": "Ariannin",
       "deu": "Argentinien",
@@ -283,7 +284,6 @@
       "zho": "阿根廷",
       "pol": "Argentyna",
       "urd": "ارجنٹائن",
-      "tur": "Türkçe",
       "kor": "아르헨티나"
     }
   },
@@ -295,6 +295,7 @@
     "flag": "flag-am",
     "name": {
       "common": "Armenia",
+      "tur": "Ermenistan",
       "ces": "Arménie",
       "cym": "Armenia",
       "deu": "Armenien",
@@ -312,7 +313,6 @@
       "zho": "亚美尼亚",
       "pol": "Armenia",
       "urd": "آرمینیا",
-      "tur": "Türkçe",
       "kor": "아르메니아"
     }
   },
@@ -324,6 +324,7 @@
     "flag": "flag-aw",
     "name": {
       "common": "Aruba",
+      "tur": "Aruba",
       "ces": "Aruba",
       "deu": "Aruba",
       "fra": "Aruba",
@@ -340,7 +341,6 @@
       "zho": "阿鲁巴",
       "pol": "Aruba",
       "urd": "اروبا",
-      "tur": "Türkçe",
       "kor": "아루바"
     }
   },
@@ -352,6 +352,7 @@
     "flag": "flag-au",
     "name": {
       "common": "Australia",
+      "tur": "Avustralya",
       "ces": "Austrálie",
       "cym": "Awstralia",
       "deu": "Australien",
@@ -369,7 +370,6 @@
       "zho": "澳大利亚",
       "pol": "Australia",
       "urd": "آسٹریلیا",
-      "tur": "Türkçe",
       "kor": "호주"
     }
   },
@@ -381,6 +381,7 @@
     "flag": "flag-at",
     "name": {
       "common": "Austria",
+      "tur": "Avusturya",
       "ces": "Rakousko",
       "cym": "Awstria",
       "deu": "Österreich",
@@ -398,7 +399,6 @@
       "zho": "奥地利",
       "pol": "Austria",
       "urd": "آسٹریا",
-      "tur": "Türkçe",
       "kor": "오스트리아"
     }
   },
@@ -410,6 +410,7 @@
     "flag": "flag-az",
     "name": {
       "common": "Azerbaijan",
+      "tur": "Azerbaycan",
       "ces": "Ázerbájdžán",
       "cym": "Aserbaijan",
       "deu": "Aserbaidschan",
@@ -427,7 +428,6 @@
       "zho": "阿塞拜疆",
       "pol": "Azerbejdżan",
       "urd": "آذربائیجان",
-      "tur": "Türkçe",
       "kor": "아제르바이잔"
     }
   },
@@ -439,6 +439,7 @@
     "flag": "flag-bs",
     "name": {
       "common": "Bahamas",
+      "tur": "Bahamalar",
       "ces": "Bahamy",
       "cym": "Bahamas",
       "deu": "Bahamas",
@@ -456,7 +457,6 @@
       "zho": "巴哈马",
       "pol": "Bahamy",
       "urd": "بہاماس",
-      "tur": "Türkçe",
       "kor": "바하마"
     }
   },
@@ -468,6 +468,7 @@
     "flag": "flag-bh",
     "name": {
       "common": "Bahrain",
+      "tur": "Bahreyn",
       "ces": "Bahrajn",
       "cym": "Bahrain",
       "deu": "Bahrain",
@@ -485,7 +486,6 @@
       "zho": "巴林",
       "pol": "Bahrajn",
       "urd": "بحرین",
-      "tur": "Türkçe",
       "kor": "바레인"
     }
   },
@@ -497,6 +497,7 @@
     "flag": "flag-bd",
     "name": {
       "common": "Bangladesh",
+      "tur": "Bangladeş",
       "ces": "Bangladéš",
       "cym": "Bangladesh",
       "deu": "Bangladesch",
@@ -514,7 +515,6 @@
       "zho": "孟加拉国",
       "pol": "Bangladesz",
       "urd": "بنگلہ دیش",
-      "tur": "Türkçe",
       "kor": "방글라데시"
     }
   },
@@ -526,6 +526,7 @@
     "flag": "flag-bb",
     "name": {
       "common": "Barbados",
+      "tur": "Barbados",
       "ces": "Barbados",
       "cym": "Barbados",
       "deu": "Barbados",
@@ -543,7 +544,6 @@
       "zho": "巴巴多斯",
       "pol": "Barbados",
       "urd": "بارباڈوس",
-      "tur": "Türkçe",
       "kor": "바베이도스"
     }
   },
@@ -555,6 +555,7 @@
     "flag": "flag-by",
     "name": {
       "common": "Belarus",
+      "tur": "Belarus",
       "ces": "Bělorusko",
       "cym": "Belarws",
       "deu": "Weißrussland",
@@ -572,7 +573,6 @@
       "zho": "白俄罗斯",
       "pol": "Białoruś",
       "urd": "بیلاروس",
-      "tur": "Türkçe",
       "kor": "벨라루스"
     }
   },
@@ -584,6 +584,7 @@
     "flag": "flag-be",
     "name": {
       "common": "Belgium",
+      "tur": "Belçika",
       "ces": "Belgie",
       "cym": "Gwlad Belg",
       "deu": "Belgien",
@@ -601,7 +602,6 @@
       "zho": "比利时",
       "pol": "Belgia",
       "urd": "بلجئیم",
-      "tur": "Türkçe",
       "kor": "벨기에"
     }
   },
@@ -613,6 +613,7 @@
     "flag": "flag-bz",
     "name": {
       "common": "Belize",
+      "tur": "Belize",
       "ces": "Belize",
       "cym": "Belîs",
       "deu": "Belize",
@@ -630,7 +631,6 @@
       "zho": "伯利兹",
       "pol": "Belize",
       "urd": "بیلیز",
-      "tur": "Türkçe",
       "kor": "벨리즈"
     }
   },
@@ -642,6 +642,7 @@
     "flag": "flag-bj",
     "name": {
       "common": "Benin",
+      "tur": "Benin",
       "ces": "Benin",
       "cym": "Benin",
       "deu": "Benin",
@@ -659,7 +660,6 @@
       "zho": "贝宁",
       "pol": "Benin",
       "urd": "بینن",
-      "tur": "Türkçe",
       "kor": "베냉"
     }
   },
@@ -671,6 +671,7 @@
     "flag": "flag-bm",
     "name": {
       "common": "Bermuda",
+      "tur": "Bermuda",
       "ces": "Bermudy",
       "cym": "Bermiwda",
       "deu": "Bermuda",
@@ -688,7 +689,6 @@
       "zho": "百慕大",
       "pol": "Bermudy",
       "urd": "برمودا",
-      "tur": "Türkçe",
       "kor": "버뮤다"
     }
   },
@@ -700,6 +700,7 @@
     "flag": "flag-bt",
     "name": {
       "common": "Bhutan",
+      "tur": "Bhutan",
       "ces": "Bhútán",
       "cym": "Bhwtan",
       "deu": "Bhutan",
@@ -717,7 +718,6 @@
       "zho": "不丹",
       "pol": "Bhutan",
       "urd": "بھوٹان",
-      "tur": "Türkçe",
       "kor": "부탄"
     }
   },
@@ -729,6 +729,7 @@
     "flag": "flag-bo",
     "name": {
       "common": "Bolivia",
+      "tur": "Bolivya",
       "ces": "Bolívie",
       "cym": "Bolifia",
       "deu": "Bolivien",
@@ -746,7 +747,6 @@
       "zho": "玻利维亚",
       "pol": "Boliwia",
       "urd": "بولیویا",
-      "tur": "Türkçe",
       "kor": "볼리비아"
     }
   },
@@ -758,6 +758,7 @@
     "flag": "flag-ba",
     "name": {
       "common": "Bosnia and Herzegovina",
+      "tur": "Bosna Hersek",
       "ces": "Bosna a Hercegovina",
       "cym": "Bosnia a Hercegovina",
       "deu": "Bosnien und Herzegowina",
@@ -775,7 +776,6 @@
       "zho": "波斯尼亚和黑塞哥维那",
       "pol": "Bośnia i Hercegowina",
       "urd": "بوسنیا و ہرزیگووینا",
-      "tur": "Türkçe",
       "kor": "보스니아 헤르체고비나"
     }
   },
@@ -787,6 +787,7 @@
     "flag": "flag-bw",
     "name": {
       "common": "Botswana",
+      "tur": "Botsvana",
       "ces": "Botswana",
       "deu": "Botswana",
       "fra": "Botswana",
@@ -803,8 +804,7 @@
       "zho": "博茨瓦纳",
       "pol": "Botswana",
       "urd": "بوٹسوانا",
-      "tur": "Türkçe",
-      "kor": "보츠와나"
+      "kor": "Botsvana나"
     }
   },
   "BV": {
@@ -815,6 +815,7 @@
     "flag": "flag-bv",
     "name": {
       "common": "Bouvet Island",
+      "tur": "Bouvet Adası",
       "ces": "Bouvetův ostrov",
       "deu": "Bouvetinsel",
       "fra": "Île Bouvet",
@@ -831,8 +832,7 @@
       "zho": "布维岛",
       "pol": "Wyspa Bouveta",
       "urd": "جزیرہ بووہ",
-      "tur": "Türkçe",
-      "kor": "부베 섬"
+      "kor": "Bouvet Adası섬"
     }
   },
   "BR": {
@@ -843,6 +843,7 @@
     "flag": "flag-br",
     "name": {
       "common": "Brazil",
+      "tur": "Brezilya",
       "ces": "Brazílie",
       "cym": "Brasil",
       "deu": "Brasilien",
@@ -860,7 +861,6 @@
       "zho": "巴西",
       "pol": "Brazylia",
       "urd": "برازیل",
-      "tur": "Türkçe",
       "kor": "브라질"
     }
   },
@@ -872,6 +872,7 @@
     "flag": "flag-io",
     "name": {
       "common": "British Indian Ocean Territory",
+      "tur": "Britanya Hint Okyanusu Toprakları",
       "ces": "Britské indickooceánské území",
       "cym": "Tiriogaeth Brydeinig Cefnfor India",
       "deu": "Britisches Territorium im Indischen Ozean",
@@ -889,7 +890,6 @@
       "zho": "英属印度洋领地",
       "pol": "Brytyjskie Terytorium Oceanu Indyjskiego",
       "urd": "برطانوی بحرہند خطہ",
-      "tur": "Türkçe",
       "kor": "인도"
     }
   },
@@ -901,6 +901,7 @@
     "flag": "flag-vg",
     "name": {
       "common": "British Virgin Islands",
+      "tur": "Britanya Virjin Adaları",
       "ces": "Britské Panenské ostrovy",
       "deu": "Britische Jungferninseln",
       "fra": "Îles Vierges britanniques",
@@ -917,7 +918,6 @@
       "zho": "英属维尔京群岛",
       "pol": "Brytyjskie Wyspy Dziewicze",
       "urd": "برطانوی جزائر ورجن",
-      "tur": "Türkçe",
       "kor": "영국령 버진아일랜드"
     }
   },
@@ -929,6 +929,7 @@
     "flag": "flag-bn",
     "name": {
       "common": "Brunei",
+      "tur": "Brunei",
       "ces": "Brunej",
       "cym": "Brunei",
       "deu": "Brunei",
@@ -946,7 +947,6 @@
       "zho": "文莱",
       "pol": "Brunei",
       "urd": "برونائی",
-      "tur": "Türkçe",
       "kor": "브루나이"
     }
   },
@@ -958,6 +958,7 @@
     "flag": "flag-bg",
     "name": {
       "common": "Bulgaria",
+      "tur": "Bulgaristan",
       "ces": "Bulharsko",
       "cym": "Bwlgaria",
       "deu": "Bulgarien",
@@ -975,7 +976,6 @@
       "zho": "保加利亚",
       "pol": "Bułgaria",
       "urd": "بلغاریہ",
-      "tur": "Türkçe",
       "kor": "불가리아"
     }
   },
@@ -987,6 +987,7 @@
     "flag": "flag-bf",
     "name": {
       "common": "Burkina Faso",
+      "tur": "Burkina Faso",
       "ces": "Burkina Faso",
       "cym": "Bwrcina Ffaso",
       "deu": "Burkina Faso",
@@ -1004,7 +1005,6 @@
       "zho": "布基纳法索",
       "pol": "Burkina Faso",
       "urd": "برکینا فاسو",
-      "tur": "Türkçe",
       "kor": "부르키나파소"
     }
   },
@@ -1016,6 +1016,7 @@
     "flag": "flag-bi",
     "name": {
       "common": "Burundi",
+      "tur": "Burundi",
       "ces": "Burundi",
       "cym": "Bwrwndi",
       "deu": "Burundi",
@@ -1033,7 +1034,6 @@
       "zho": "布隆迪",
       "pol": "Burundi",
       "urd": "برونڈی",
-      "tur": "Türkçe",
       "kor": "부룬디"
     }
   },
@@ -1045,6 +1045,7 @@
     "flag": "flag-kh",
     "name": {
       "common": "Cambodia",
+      "tur": "Kamboçya",
       "ces": "Kambodža",
       "cym": "Cambodia",
       "deu": "Kambodscha",
@@ -1062,7 +1063,6 @@
       "zho": "柬埔寨",
       "pol": "Kambodża",
       "urd": "کمبوڈیا",
-      "tur": "Türkçe",
       "kor": "캄보디아"
     }
   },
@@ -1074,6 +1074,7 @@
     "flag": "flag-cm",
     "name": {
       "common": "Cameroon",
+      "tur": "Kamerun",
       "ces": "Kamerun",
       "cym": "Camerŵn",
       "deu": "Kamerun",
@@ -1091,7 +1092,6 @@
       "zho": "喀麦隆",
       "pol": "WybrzeŻe Kości Słoniowej",
       "urd": "کیمرون",
-      "tur": "Türkçe",
       "kor": "카메룬"
     }
   },
@@ -1103,6 +1103,7 @@
     "flag": "flag-ca",
     "name": {
       "common": "Canada",
+      "tur": "Kanada",
       "ces": "Kanada",
       "cym": "Canada",
       "deu": "Kanada",
@@ -1120,7 +1121,6 @@
       "zho": "加拿大",
       "pol": "Kanada",
       "urd": "کینیڈا",
-      "tur": "Türkçe",
       "kor": "캐나다"
     }
   },
@@ -1132,6 +1132,7 @@
     "flag": "flag-cv",
     "name": {
       "common": "Cape Verde",
+      "tur": "Yeşil Burun Adaları",
       "ces": "Kapverdy",
       "cym": "Penrhyn Verde",
       "deu": "Kap Verde",
@@ -1149,7 +1150,6 @@
       "zho": "佛得角",
       "pol": "Republika Zielonego Przylądka",
       "urd": "کیپ ورڈی",
-      "tur": "Türkçe",
       "kor": "카보베르데"
     }
   },
@@ -1161,6 +1161,7 @@
     "flag": "flag-bq",
     "name": {
       "common": "Caribbean Netherlands",
+      "tur": "Karayip Hollandası",
       "ces": "Karibské Nizozemsko",
       "deu": "Karibische Niederlande",
       "fra": "Pays-Bas caribéens",
@@ -1177,7 +1178,6 @@
       "zho": "荷蘭加勒比區",
       "pol": "Antyle Holenderskie",
       "urd": "کیریبین نیدرلینڈز",
-      "tur": "Türkçe",
       "kor": "카리브 네덜란드"
     }
   },
@@ -1189,6 +1189,7 @@
     "flag": "flag-ky",
     "name": {
       "common": "Cayman Islands",
+      "tur": "Cayman Adaları",
       "ces": "Kajmanské ostrovy",
       "cym": "Ynysoedd Cayman",
       "deu": "Kaimaninseln",
@@ -1206,7 +1207,6 @@
       "zho": "开曼群岛",
       "pol": "Kajmany",
       "urd": "جزائر کیمین",
-      "tur": "Türkçe",
       "kor": "케이맨 제도"
     }
   },
@@ -1218,6 +1218,7 @@
     "flag": "flag-cf",
     "name": {
       "common": "Central African Republic",
+      "tur": "Orta Afrika Cumhuriyeti",
       "ces": "Středoafrická republika",
       "cym": "Gweriniaeth Canolbarth Affrica",
       "deu": "Zentralafrikanische Republik",
@@ -1235,7 +1236,6 @@
       "zho": "中非共和国",
       "pol": "Republika Środkowoafrykańska",
       "urd": "وسطی افریقی جمہوریہ",
-      "tur": "Türkçe",
       "kor": "중앙아프리카 공화국"
     }
   },
@@ -1247,6 +1247,7 @@
     "flag": "flag-td",
     "name": {
       "common": "Chad",
+      "tur": "Chad",
       "ces": "Čad",
       "cym": "Tsiad",
       "deu": "Tschad",
@@ -1264,7 +1265,6 @@
       "zho": "乍得",
       "pol": "Czad",
       "urd": "چاڈ",
-      "tur": "Türkçe",
       "kor": "차드"
     }
   },
@@ -1276,6 +1276,7 @@
     "flag": "flag-cl",
     "name": {
       "common": "Chile",
+      "tur": "Şili",
       "ces": "Chile",
       "cym": "Chile",
       "deu": "Chile",
@@ -1293,7 +1294,6 @@
       "zho": "智利",
       "pol": "Chile",
       "urd": "چلی",
-      "tur": "Türkçe",
       "kor": "칠레"
     }
   },
@@ -1305,6 +1305,7 @@
     "flag": "flag-cn",
     "name": {
       "common": "China",
+      "tur": "Çin",
       "ces": "Čína",
       "cym": "Tsieina",
       "deu": "China",
@@ -1321,7 +1322,6 @@
       "est": "Hiina",
       "pol": "Chiny",
       "urd": "چین",
-      "tur": "Türkçe",
       "kor": "중국"
     }
   },
@@ -1333,6 +1333,7 @@
     "flag": "flag-cx",
     "name": {
       "common": "Christmas Island",
+      "tur": "Noel Adası",
       "ces": "Vánoční ostrov",
       "cym": "Ynys y Nadolig",
       "deu": "Weihnachtsinsel",
@@ -1350,7 +1351,6 @@
       "zho": "圣诞岛",
       "pol": "Wyspa Bożego Narodzenia",
       "urd": "جزیرہ کرسمس",
-      "tur": "Türkçe",
       "kor": "크리스마스 섬"
     }
   },
@@ -1362,6 +1362,7 @@
     "flag": "flag-cc",
     "name": {
       "common": "Cocos (Keeling) Islands",
+      "tur": "Cocos (Keeling) Adaları",
       "ces": "Kokosové ostrovy",
       "cym": "Ynysoedd Cocos",
       "deu": "Kokosinseln",
@@ -1379,7 +1380,6 @@
       "zho": "科科斯",
       "pol": "Wyspy Kokosowe",
       "urd": "جزائر کوکوس",
-      "tur": "Türkçe",
       "kor": "코코스 제도"
     }
   },
@@ -1391,6 +1391,7 @@
     "flag": "flag-co",
     "name": {
       "common": "Colombia",
+      "tur": "Kolombiya",
       "ces": "Kolumbie",
       "cym": "Colombia",
       "deu": "Kolumbien",
@@ -1408,7 +1409,6 @@
       "zho": "哥伦比亚",
       "pol": "Kolumbia",
       "urd": "کولمبیا",
-      "tur": "Türkçe",
       "kor": "콜롬비아"
     }
   },
@@ -1420,6 +1420,7 @@
     "flag": "flag-km",
     "name": {
       "common": "Comoros",
+      "tur": "Komorlar",
       "ces": "Komory",
       "cym": "Y Comoros",
       "deu": "Komoren",
@@ -1437,7 +1438,6 @@
       "zho": "科摩罗",
       "pol": "Komory",
       "urd": "القمری",
-      "tur": "Türkçe",
       "kor": "코모로"
     }
   },
@@ -1449,6 +1449,7 @@
     "flag": "flag-ck",
     "name": {
       "common": "Cook Islands",
+      "tur": "Cook Adaları",
       "ces": "Cookovy ostrovy",
       "cym": "Ynysoedd Cook",
       "deu": "Cookinseln",
@@ -1466,7 +1467,6 @@
       "zho": "库克群岛",
       "pol": "Wyspy Cooka",
       "urd": "جزائر کک",
-      "tur": "Türkçe",
       "kor": "쿡 제도"
     }
   },
@@ -1478,6 +1478,7 @@
     "flag": "flag-cr",
     "name": {
       "common": "Costa Rica",
+      "tur": "Kosta Rika",
       "ces": "Kostarika",
       "cym": "Costa Rica",
       "deu": "Costa Rica",
@@ -1495,7 +1496,6 @@
       "zho": "哥斯达黎加",
       "pol": "Kostaryka",
       "urd": "کوسٹاریکا",
-      "tur": "Türkçe",
       "kor": "코스타리카"
     }
   },
@@ -1507,6 +1507,7 @@
     "flag": "flag-hr",
     "name": {
       "common": "Croatia",
+      "tur": "Hırvatistan",
       "ces": "Chorvatsko",
       "cym": "Croatia",
       "deu": "Kroatien",
@@ -1524,7 +1525,6 @@
       "zho": "克罗地亚",
       "pol": "Chorwacja",
       "urd": "کرویئشا",
-      "tur": "Türkçe",
       "kor": "크로아티아"
     }
   },
@@ -1536,6 +1536,7 @@
     "flag": "flag-cu",
     "name": {
       "common": "Cuba",
+      "tur": "Küba",
       "ces": "Kuba",
       "cym": "Ciwba",
       "deu": "Kuba",
@@ -1553,7 +1554,6 @@
       "zho": "古巴",
       "pol": "Kuba",
       "urd": "کیوبا",
-      "tur": "Türkçe",
       "kor": "쿠바"
     }
   },
@@ -1565,6 +1565,7 @@
     "flag": "flag-cw",
     "name": {
       "common": "Curaçao",
+      "tur": "Curaçao",
       "ces": "Curaçao",
       "deu": "Curaçao",
       "fra": "Curaçao",
@@ -1578,7 +1579,6 @@
       "zho": "库拉索",
       "pol": "Curaçao",
       "urd": "کیوراساؤ",
-      "tur": "Türkçe",
       "kor": "퀴라소"
     }
   },
@@ -1590,6 +1590,7 @@
     "flag": "flag-cy",
     "name": {
       "common": "Cyprus",
+      "tur": "Kıbrıs",
       "ces": "Kypr",
       "cym": "Cyprus",
       "deu": "Zypern",
@@ -1607,7 +1608,6 @@
       "zho": "塞浦路斯",
       "pol": "Cypr",
       "urd": "قبرص",
-      "tur": "Türkçe",
       "kor": "키프로스"
     }
   },
@@ -1619,6 +1619,7 @@
     "flag": "flag-cz",
     "name": {
       "common": "Czechia",
+      "tur": "Çekya",
       "ces": "Česko",
       "cym": "Y Weriniaeth Tsiec",
       "deu": "Tschechien",
@@ -1636,7 +1637,6 @@
       "zho": "捷克",
       "pol": "Czechy",
       "urd": "چيک",
-      "tur": "Türkçe",
       "kor": "체코"
     }
   },
@@ -1648,6 +1648,7 @@
     "flag": "flag-cd",
     "name": {
       "common": "DR Congo",
+      "tur": "Kongo Demokratik Cumhuriyeti",
       "ces": "DR Kongo",
       "cym": "Gweriniaeth Ddemocrataidd Congo",
       "deu": "Kongo (Dem. Rep.)",
@@ -1665,7 +1666,6 @@
       "zho": "民主刚果",
       "pol": "Demokratyczna Republika Konga",
       "urd": "\nکانگو",
-      "tur": "Türkçe",
       "kor": "콩고 민주 공화국"
     }
   },
@@ -1677,6 +1677,7 @@
     "flag": "flag-dk",
     "name": {
       "common": "Denmark",
+      "tur": "Danimarka",
       "ces": "Dánsko",
       "cym": "Denmarc",
       "deu": "Dänemark",
@@ -1694,7 +1695,6 @@
       "zho": "丹麦",
       "pol": "Dania",
       "urd": "ڈنمارک",
-      "tur": "Türkçe",
       "kor": "덴마크"
     }
   },
@@ -1706,6 +1706,7 @@
     "flag": "flag-dj",
     "name": {
       "common": "Djibouti",
+      "tur": "Cibuti",
       "ces": "Džibutsko",
       "cym": "Jibwti",
       "deu": "Dschibuti",
@@ -1723,7 +1724,6 @@
       "zho": "吉布提",
       "pol": "Dżibuti",
       "urd": "جبوتی",
-      "tur": "Türkçe",
       "kor": "지부티"
     }
   },
@@ -1735,6 +1735,7 @@
     "flag": "flag-dm",
     "name": {
       "common": "Dominica",
+      "tur": "Dominika",
       "ces": "Dominika",
       "cym": "Dominica",
       "deu": "Dominica",
@@ -1752,7 +1753,6 @@
       "zho": "多米尼加",
       "pol": "Dominika",
       "urd": "ڈومینیکا",
-      "tur": "Türkçe",
       "kor": "도미니카 공화국"
     }
   },
@@ -1764,6 +1764,7 @@
     "flag": "flag-do",
     "name": {
       "common": "Dominican Republic",
+      "tur": "Dominik Cumhuriyeti",
       "ces": "Dominikánská republika",
       "cym": "Gweriniaeth Dominica",
       "deu": "Dominikanische Republik",
@@ -1781,7 +1782,6 @@
       "zho": "多明尼加",
       "pol": "Dominikana",
       "urd": "ڈومینیکن",
-      "tur": "Türkçe",
       "kor": "도미니카 공화국"
     }
   },
@@ -1793,6 +1793,7 @@
     "flag": "flag-ec",
     "name": {
       "common": "Ecuador",
+      "tur": "Ekvador",
       "ces": "Ekvádor",
       "cym": "Ecwador",
       "deu": "Ecuador",
@@ -1810,7 +1811,6 @@
       "zho": "厄瓜多尔",
       "pol": "Ekwador",
       "urd": "ایکواڈور",
-      "tur": "Türkçe",
       "kor": "에콰도르"
     }
   },
@@ -1822,6 +1822,7 @@
     "flag": "flag-eg",
     "name": {
       "common": "Egypt",
+      "tur": "Mısır",
       "ces": "Egypt",
       "cym": "Yr Aifft",
       "deu": "Ägypten",
@@ -1839,7 +1840,6 @@
       "zho": "埃及",
       "pol": "Egipt",
       "urd": "مصر",
-      "tur": "Türkçe",
       "kor": "이집트"
     }
   },
@@ -1851,6 +1851,7 @@
     "flag": "flag-sv",
     "name": {
       "common": "El Salvador",
+      "tur": "El Salvador",
       "ces": "Salvador",
       "cym": "El Salfador",
       "deu": "El Salvador",
@@ -1868,7 +1869,6 @@
       "zho": "萨尔瓦多",
       "pol": "Salwador",
       "urd": "ایل سیلواڈور",
-      "tur": "Türkçe",
       "kor": "엘살바도르"
     }
   },
@@ -1880,6 +1880,7 @@
     "flag": "flag-gq",
     "name": {
       "common": "Equatorial Guinea",
+      "tur": "Ekvator Ginesi",
       "ces": "Rovníková Guinea",
       "cym": "Gini Gyhydeddol",
       "deu": "Äquatorialguinea",
@@ -1897,7 +1898,6 @@
       "zho": "赤道几内亚",
       "pol": "Gwinea Równikowa",
       "urd": "استوائی گنی",
-      "tur": "Türkçe",
       "kor": "적도 기니"
     }
   },
@@ -1909,6 +1909,7 @@
     "flag": "flag-er",
     "name": {
       "common": "Eritrea",
+      "tur": "Eritre",
       "ces": "Eritrea",
       "cym": "Eritrea",
       "deu": "Eritrea",
@@ -1926,7 +1927,6 @@
       "zho": "厄立特里亚",
       "pol": "Erytrea",
       "urd": "ارتریا",
-      "tur": "Türkçe",
       "kor": "에리트레아"
     }
   },
@@ -1938,6 +1938,7 @@
     "flag": "flag-ee",
     "name": {
       "common": "Estonia",
+      "tur": "Estonya",
       "ces": "Estonsko",
       "cym": "Estonia",
       "deu": "Estland",
@@ -1955,7 +1956,6 @@
       "zho": "爱沙尼亚",
       "pol": "Estonia",
       "urd": "اسٹونیا",
-      "tur": "Türkçe",
       "kor": "에스토니아"
     }
   },
@@ -1967,6 +1967,7 @@
     "flag": "flag-sz",
     "name": {
       "common": "Eswatini",
+      "tur": "Eswatini",
       "ces": "Svazijsko",
       "deu": "Swasiland",
       "fra": "Swaziland",
@@ -1983,7 +1984,6 @@
       "pol": "Suazi",
       "zho": "斯威士兰",
       "urd": "سوازی لینڈ",
-      "tur": "Türkçe",
       "kor": "에스와티니"
     }
   },
@@ -1995,6 +1995,7 @@
     "flag": "flag-et",
     "name": {
       "common": "Ethiopia",
+      "tur": "Etiyopya",
       "ces": "Etiopie",
       "cym": "Ethiopia",
       "deu": "Äthiopien",
@@ -2012,7 +2013,6 @@
       "zho": "埃塞俄比亚",
       "pol": "Etiopia",
       "urd": "ایتھوپیا",
-      "tur": "Türkçe",
       "kor": "에티오피아"
     }
   },
@@ -2024,6 +2024,7 @@
     "flag": "flag-fk",
     "name": {
       "common": "Falkland Islands",
+      "tur": "Falkland Adaları",
       "ces": "Falklandy",
       "deu": "Falklandinseln",
       "fra": "Îles Malouines",
@@ -2040,7 +2041,6 @@
       "zho": "福克兰群岛",
       "pol": "Falklandy",
       "urd": "جزائر فاکلینڈ",
-      "tur": "Türkçe",
       "kor": "포클랜드 제도"
     }
   },
@@ -2052,6 +2052,7 @@
     "flag": "flag-fo",
     "name": {
       "common": "Faroe Islands",
+      "tur": "Faroe Adaları",
       "ces": "Faerské ostrovy",
       "deu": "Färöer-Inseln",
       "fra": "Îles Féroé",
@@ -2068,7 +2069,6 @@
       "zho": "法罗群岛",
       "pol": "Wyspy Owcze",
       "urd": "جزائر فارو",
-      "tur": "Türkçe",
       "kor": "페로 제도"
     }
   },
@@ -2080,6 +2080,7 @@
     "flag": "flag-fj",
     "name": {
       "common": "Fiji",
+      "tur": "Fiji",
       "ces": "Fidži",
       "deu": "Fidschi",
       "fra": "Fidji",
@@ -2096,7 +2097,6 @@
       "zho": "斐济",
       "pol": "Fidżi",
       "urd": "فجی",
-      "tur": "Türkçe",
       "kor": "피지"
     }
   },
@@ -2108,6 +2108,7 @@
     "flag": "flag-fi",
     "name": {
       "common": "Finland",
+      "tur": "Finlandiya",
       "ces": "Finsko",
       "deu": "Finnland",
       "fra": "Finlande",
@@ -2124,7 +2125,6 @@
       "zho": "芬兰",
       "pol": "Finlandia",
       "urd": "فن لینڈ",
-      "tur": "Türkçe",
       "kor": "핀란드"
     }
   },
@@ -2136,6 +2136,7 @@
     "flag": "flag-fr",
     "name": {
       "common": "France",
+      "tur": "Fransa",
       "ces": "Francie",
       "deu": "Frankreich",
       "fra": "France",
@@ -2152,7 +2153,6 @@
       "zho": "法国",
       "pol": "Francja",
       "urd": "فرانس",
-      "tur": "Türkçe",
       "kor": "프랑스"
     }
   },
@@ -2164,6 +2164,7 @@
     "flag": "flag-gf",
     "name": {
       "common": "French Guiana",
+      "tur": "Fransız Guyanası",
       "ces": "Francouzská Guyana",
       "deu": "Französisch-Guayana",
       "fra": "Guyane",
@@ -2180,7 +2181,6 @@
       "zho": "法属圭亚那",
       "pol": "Gujana Francuska",
       "urd": "فرانسیسی گیانا",
-      "tur": "Türkçe",
       "kor": "프랑스령 기아나"
     }
   },
@@ -2192,6 +2192,7 @@
     "flag": "flag-pf",
     "name": {
       "common": "French Polynesia",
+      "tur": "Fransız Polinezyası",
       "ces": "Francouzská Polynésie",
       "deu": "Französisch-Polynesien",
       "fra": "Polynésie française",
@@ -2208,7 +2209,6 @@
       "zho": "法属波利尼西亚",
       "pol": "Polinezja Francuska",
       "urd": "فرانسیسی پولینیشیا",
-      "tur": "Türkçe",
       "kor": "프랑스령 폴리네시아"
     }
   },
@@ -2220,6 +2220,7 @@
     "flag": "flag-tf",
     "name": {
       "common": "French Southern and Antarctic Lands",
+      "tur": "Fransız Güney ve Antarktika Toprakları",
       "ces": "Francouzská jižní a antarktická území",
       "deu": "Französische Süd- und Antarktisgebiete",
       "fra": "Terres australes et antarctiques françaises",
@@ -2236,7 +2237,6 @@
       "zho": "法国南部和南极土地",
       "pol": "Francuskie Terytoria Południowe i Antarktyczne",
       "urd": "سرزمین جنوبی فرانسیسیہ و انٹارکٹیکا",
-      "tur": "Türkçe",
       "kor": "프랑스령 남부와 남극 지역"
     }
   },
@@ -2248,6 +2248,7 @@
     "flag": "flag-ga",
     "name": {
       "common": "Gabon",
+      "tur": "Gabon",
       "ces": "Gabon",
       "deu": "Gabun",
       "fra": "Gabon",
@@ -2264,7 +2265,6 @@
       "zho": "加蓬",
       "pol": "Gabon",
       "urd": "گیبون",
-      "tur": "Türkçe",
       "kor": "가봉"
     }
   },
@@ -2276,6 +2276,7 @@
     "flag": "flag-gm",
     "name": {
       "common": "Gambia",
+      "tur": "Gambiya",
       "ces": "Gambie",
       "deu": "Gambia",
       "fra": "Gambie",
@@ -2292,7 +2293,6 @@
       "zho": "冈比亚",
       "pol": "Gambia",
       "urd": "گیمبیا",
-      "tur": "Türkçe",
       "kor": "감비아"
     }
   },
@@ -2304,6 +2304,7 @@
     "flag": "flag-ge",
     "name": {
       "common": "Georgia",
+      "tur": "Gürcistan",
       "ces": "Gruzie",
       "deu": "Georgien",
       "fra": "Géorgie",
@@ -2320,7 +2321,6 @@
       "zho": "格鲁吉亚",
       "pol": "Gruzja",
       "urd": "جارجیا",
-      "tur": "Türkçe",
       "kor": "조지아"
     }
   },
@@ -2332,6 +2332,7 @@
     "flag": "flag-de",
     "name": {
       "common": "Germany",
+      "tur": "Almanya",
       "ces": "Německo",
       "deu": "Deutschland",
       "fra": "Allemagne",
@@ -2348,7 +2349,6 @@
       "zho": "德国",
       "pol": "Niemcy",
       "urd": "جرمنی",
-      "tur": "Türkçe",
       "kor": "독일"
     }
   },
@@ -2360,6 +2360,7 @@
     "flag": "flag-gh",
     "name": {
       "common": "Ghana",
+      "tur": "Gana",
       "ces": "Ghana",
       "deu": "Ghana",
       "fra": "Ghana",
@@ -2376,7 +2377,6 @@
       "zho": "加纳",
       "pol": "Ghana",
       "urd": "گھانا",
-      "tur": "Türkçe",
       "kor": "가나"
     }
   },
@@ -2388,6 +2388,7 @@
     "flag": "flag-gi",
     "name": {
       "common": "Gibraltar",
+      "tur": "Cebelitarık",
       "ces": "Gibraltar",
       "deu": "Gibraltar",
       "fra": "Gibraltar",
@@ -2404,7 +2405,6 @@
       "zho": "直布罗陀",
       "pol": "Gibraltar",
       "urd": "جبل الطارق",
-      "tur": "Türkçe",
       "kor": "지브롤터"
     }
   },
@@ -2416,6 +2416,7 @@
     "flag": "flag-gr",
     "name": {
       "common": "Greece",
+      "tur": "Yunanistan",
       "ces": "Řecko",
       "deu": "Griechenland",
       "fra": "Grèce",
@@ -2432,7 +2433,6 @@
       "zho": "希腊",
       "pol": "Grecja",
       "urd": "یونان",
-      "tur": "Türkçe",
       "kor": "그리스"
     }
   },
@@ -2444,6 +2444,7 @@
     "flag": "flag-gl",
     "name": {
       "common": "Greenland",
+      "tur": "Grönland",
       "ces": "Grónsko",
       "deu": "Grönland",
       "fra": "Groenland",
@@ -2460,7 +2461,6 @@
       "zho": "格陵兰",
       "pol": "Grenlandia",
       "urd": "گرین لینڈ",
-      "tur": "Türkçe",
       "kor": "그린란드"
     }
   },
@@ -2472,6 +2472,7 @@
     "flag": "flag-gd",
     "name": {
       "common": "Grenada",
+      "tur": "Grenada",
       "ces": "Grenada",
       "deu": "Grenada",
       "fra": "Grenade",
@@ -2488,7 +2489,6 @@
       "zho": "格林纳达",
       "pol": "Grenada",
       "urd": "گریناڈا",
-      "tur": "Türkçe",
       "kor": "그레나다"
     }
   },
@@ -2500,6 +2500,7 @@
     "flag": "flag-gp",
     "name": {
       "common": "Guadeloupe",
+      "tur": "Guadeloupe",
       "ces": "Guadeloupe",
       "deu": "Guadeloupe",
       "fra": "Guadeloupe",
@@ -2516,7 +2517,6 @@
       "zho": "瓜德罗普岛",
       "pol": "Gwadelupa",
       "urd": "گواڈیلوپ",
-      "tur": "Türkçe",
       "kor": "과들루프"
     }
   },
@@ -2528,6 +2528,7 @@
     "flag": "flag-gu",
     "name": {
       "common": "Guam",
+      "tur": "Guam",
       "ces": "Guam",
       "deu": "Guam",
       "fra": "Guam",
@@ -2544,7 +2545,6 @@
       "zho": "关岛",
       "pol": "Guam",
       "urd": "گوام",
-      "tur": "Türkçe",
       "kor": "괌"
     }
   },
@@ -2556,6 +2556,7 @@
     "flag": "flag-gt",
     "name": {
       "common": "Guatemala",
+      "tur": "Guatemala",
       "ces": "Guatemala",
       "deu": "Guatemala",
       "fra": "Guatemala",
@@ -2572,7 +2573,6 @@
       "zho": "危地马拉",
       "pol": "Gwatemala",
       "urd": "گواتیمالا",
-      "tur": "Türkçe",
       "kor": "과테말라"
     }
   },
@@ -2584,6 +2584,7 @@
     "flag": "flag-gg",
     "name": {
       "common": "Guernsey",
+      "tur": "Guernsey",
       "ces": "Guernsey",
       "deu": "Guernsey",
       "fra": "Guernesey",
@@ -2600,7 +2601,6 @@
       "zho": "根西岛",
       "pol": "Guernsey",
       "urd": "گرنزی",
-      "tur": "Türkçe",
       "kor": "건지 섬"
     }
   },
@@ -2612,6 +2612,7 @@
     "flag": "flag-gn",
     "name": {
       "common": "Guinea",
+      "tur": "Gine",
       "ces": "Guinea",
       "deu": "Guinea",
       "fra": "Guinée",
@@ -2628,7 +2629,6 @@
       "zho": "几内亚",
       "pol": "Gwinea",
       "urd": "گنی",
-      "tur": "Türkçe",
       "kor": "기니"
     }
   },
@@ -2640,6 +2640,7 @@
     "flag": "flag-gw",
     "name": {
       "common": "Guinea-Bissau",
+      "tur": "Gine-Bissau",
       "ces": "Guinea-Bissau",
       "deu": "Guinea-Bissau",
       "fra": "Guinée-Bissau",
@@ -2656,7 +2657,6 @@
       "zho": "几内亚比绍",
       "pol": "Gwinea Bissau",
       "urd": "گنی بساؤ",
-      "tur": "Türkçe",
       "kor": "기니비사우"
     }
   },
@@ -2668,6 +2668,7 @@
     "flag": "flag-gy",
     "name": {
       "common": "Guyana",
+      "tur": "Guyana",
       "ces": "Guyana",
       "deu": "Guyana",
       "fra": "Guyana",
@@ -2684,7 +2685,6 @@
       "zho": "圭亚那",
       "pol": "Gujana",
       "urd": "گیانا",
-      "tur": "Türkçe",
       "kor": "가이아나"
     }
   },
@@ -2696,6 +2696,7 @@
     "flag": "flag-ht",
     "name": {
       "common": "Haiti",
+      "tur": "Haiti",
       "ces": "Haiti",
       "deu": "Haiti",
       "fra": "Haïti",
@@ -2712,7 +2713,6 @@
       "zho": "海地",
       "pol": "Haiti",
       "urd": "ہیٹی",
-      "tur": "Türkçe",
       "kor": "아이티"
     }
   },
@@ -2724,6 +2724,7 @@
     "flag": "flag-hm",
     "name": {
       "common": "Heard Island and McDonald Islands",
+      "tur": "Heard Adası ve McDonald Adaları",
       "ces": "Heardův ostrov a McDonaldovy ostrovy",
       "deu": "Heard und die McDonaldinseln",
       "fra": "Îles Heard-et-MacDonald",
@@ -2740,7 +2741,6 @@
       "zho": "赫德岛和麦当劳群岛",
       "pol": "Wyspy Heard i McDonalda",
       "urd": "جزیرہ ہرڈ و جزائر مکڈونلڈ",
-      "tur": "Türkçe",
       "kor": "허드 맥도널드 제도"
     }
   },
@@ -2752,6 +2752,7 @@
     "flag": "flag-hn",
     "name": {
       "common": "Honduras",
+      "tur": "Honduras",
       "ces": "Honduras",
       "deu": "Honduras",
       "fra": "Honduras",
@@ -2768,7 +2769,6 @@
       "zho": "洪都拉斯",
       "pol": "Honduras",
       "urd": "ہونڈوراس",
-      "tur": "Türkçe",
       "kor": "온두라스"
     }
   },
@@ -2780,6 +2780,7 @@
     "flag": "flag-hk",
     "name": {
       "common": "Hong Kong",
+      "tur": "Hong Kong",
       "ces": "Hongkong",
       "deu": "Hongkong",
       "fra": "Hong Kong",
@@ -2795,7 +2796,6 @@
       "est": "Hongkong",
       "pol": "Hongkong",
       "urd": "ہانگ کانگ",
-      "tur": "Türkçe",
       "kor": "홍콩"
     }
   },
@@ -2807,6 +2807,7 @@
     "flag": "flag-hu",
     "name": {
       "common": "Hungary",
+      "tur": "Macaristan",
       "ces": "Maďarsko",
       "deu": "Ungarn",
       "fra": "Hongrie",
@@ -2823,7 +2824,6 @@
       "zho": "匈牙利",
       "pol": "Węgry",
       "urd": "مجارستان",
-      "tur": "Türkçe",
       "kor": "헝가리"
     }
   },
@@ -2835,6 +2835,7 @@
     "flag": "flag-is",
     "name": {
       "common": "Iceland",
+      "tur": "İzlanda",
       "ces": "Island",
       "deu": "Island",
       "fra": "Islande",
@@ -2851,7 +2852,6 @@
       "zho": "冰岛",
       "pol": "Islandia",
       "urd": "آئس لینڈ",
-      "tur": "Türkçe",
       "kor": "아이슬란드"
     }
   },
@@ -2863,6 +2863,7 @@
     "flag": "flag-in",
     "name": {
       "common": "India",
+      "tur": "Hindistan",
       "ces": "Indie",
       "deu": "Indien",
       "fra": "Inde",
@@ -2879,7 +2880,6 @@
       "zho": "印度",
       "pol": "Indie",
       "urd": "بھارت",
-      "tur": "Türkçe",
       "kor": "인도"
     }
   },
@@ -2891,6 +2891,7 @@
     "flag": "flag-id",
     "name": {
       "common": "Indonesia",
+      "tur": "Endonezya",
       "ces": "Indonésie",
       "deu": "Indonesien",
       "fra": "Indonésie",
@@ -2907,7 +2908,6 @@
       "zho": "印度尼西亚",
       "pol": "Indonezja",
       "urd": "انڈونیشیا",
-      "tur": "Türkçe",
       "kor": "인도네시아"
     }
   },
@@ -2919,6 +2919,7 @@
     "flag": "flag-ir",
     "name": {
       "common": "Iran",
+      "tur": "İran",
       "ces": "Írán",
       "deu": "Iran",
       "fra": "Iran",
@@ -2935,7 +2936,6 @@
       "zho": "伊朗",
       "pol": "Iran",
       "urd": "ایران",
-      "tur": "Türkçe",
       "kor": "이란"
     }
   },
@@ -2947,6 +2947,7 @@
     "flag": "flag-iq",
     "name": {
       "common": "Iraq",
+      "tur": "Irak",
       "ces": "Irák",
       "deu": "Irak",
       "fra": "Irak",
@@ -2963,7 +2964,6 @@
       "zho": "伊拉克",
       "pol": "Irak",
       "urd": "عراق",
-      "tur": "Türkçe",
       "kor": "이라크"
     }
   },
@@ -2975,6 +2975,7 @@
     "flag": "flag-ie",
     "name": {
       "common": "Ireland",
+      "tur": "İrlanda",
       "ces": "Irsko",
       "deu": "Irland",
       "fra": "Irlande",
@@ -2991,7 +2992,6 @@
       "zho": "爱尔兰",
       "pol": "Irlandia",
       "urd": "جزیرہ آئرلینڈ",
-      "tur": "Türkçe",
       "kor": "아일랜드"
     }
   },
@@ -3003,6 +3003,7 @@
     "flag": "flag-im",
     "name": {
       "common": "Isle of Man",
+      "tur": "Man Adası",
       "ces": "Ostrov Man",
       "deu": "Insel Man",
       "fra": "Île de Man",
@@ -3019,7 +3020,6 @@
       "zho": "马恩岛",
       "pol": "Wyspa Man",
       "urd": "آئل آف مین",
-      "tur": "Türkçe",
       "kor": "맨섬"
     }
   },
@@ -3031,6 +3031,7 @@
     "flag": "flag-il",
     "name": {
       "common": "Israel",
+      "tur": "İsrail",
       "ces": "Izrael",
       "deu": "Israel",
       "fra": "Israël",
@@ -3047,7 +3048,6 @@
       "zho": "以色列",
       "pol": "Izrael",
       "urd": "اسرائیل",
-      "tur": "Türkçe",
       "kor": "이스라엘"
     }
   },
@@ -3059,6 +3059,7 @@
     "flag": "flag-it",
     "name": {
       "common": "Italy",
+      "tur": "İtalya",
       "ces": "Itálie",
       "deu": "Italien",
       "fra": "Italie",
@@ -3075,7 +3076,6 @@
       "zho": "意大利",
       "pol": "Włochy",
       "urd": "اطالیہ",
-      "tur": "Türkçe",
       "kor": "이탈리아"
     }
   },
@@ -3087,6 +3087,7 @@
     "flag": "flag-ci",
     "name": {
       "common": "Ivory Coast",
+      "tur": "Fildişi Sahili",
       "ces": "Pobřeží slonoviny",
       "deu": "Elfenbeinküste",
       "fra": "Côte d'Ivoire",
@@ -3103,7 +3104,6 @@
       "zho": "科特迪瓦",
       "pol": "WybrzeŻe Kości Słoniowej",
       "urd": "آئیوری کوسٹ",
-      "tur": "Türkçe",
       "kor": "코트디부아르"
     }
   },
@@ -3115,6 +3115,7 @@
     "flag": "flag-jm",
     "name": {
       "common": "Jamaica",
+      "tur": "Jamaika",
       "ces": "Jamajka",
       "deu": "Jamaika",
       "fra": "Jamaïque",
@@ -3131,7 +3132,6 @@
       "zho": "牙买加",
       "pol": "Jamajka",
       "urd": "جمیکا",
-      "tur": "Türkçe",
       "kor": "자메이카"
     }
   },
@@ -3143,6 +3143,7 @@
     "flag": "flag-jp",
     "name": {
       "common": "Japan",
+      "tur": "Japonya",
       "ces": "Japonsko",
       "deu": "Japan",
       "fra": "Japon",
@@ -3159,7 +3160,6 @@
       "zho": "日本",
       "pol": "Japonia",
       "urd": "جاپان",
-      "tur": "Türkçe",
       "kor": "일본"
     }
   },
@@ -3171,6 +3171,7 @@
     "flag": "flag-je",
     "name": {
       "common": "Jersey",
+      "tur": "Jersey",
       "ces": "Jersey",
       "deu": "Jersey",
       "fra": "Jersey",
@@ -3187,7 +3188,6 @@
       "zho": "泽西岛",
       "pol": "Jersey",
       "urd": "جرزی",
-      "tur": "Türkçe",
       "kor": "저지 섬"
     }
   },
@@ -3199,6 +3199,7 @@
     "flag": "flag-jo",
     "name": {
       "common": "Jordan",
+      "tur": "Ürdün",
       "ces": "Jordánsko",
       "deu": "Jordanien",
       "fra": "Jordanie",
@@ -3215,7 +3216,6 @@
       "zho": "约旦",
       "pol": "Jordania",
       "urd": "اردن",
-      "tur": "Türkçe",
       "kor": "요르단"
     }
   },
@@ -3227,6 +3227,7 @@
     "flag": "flag-kz",
     "name": {
       "common": "Kazakhstan",
+      "tur": "Kazakistan",
       "ces": "Kazachstán",
       "deu": "Kasachstan",
       "fra": "Kazakhstan",
@@ -3243,7 +3244,6 @@
       "zho": "哈萨克斯坦",
       "pol": "Kazachstan",
       "urd": "قازقستان",
-      "tur": "Türkçe",
       "kor": "카자흐스탄"
     }
   },
@@ -3255,6 +3255,7 @@
     "flag": "flag-ke",
     "name": {
       "common": "Kenya",
+      "tur": "Kenya",
       "ces": "Keňa",
       "deu": "Kenia",
       "fra": "Kenya",
@@ -3271,7 +3272,6 @@
       "zho": "肯尼亚",
       "pol": "Kenia",
       "urd": "کینیا",
-      "tur": "Türkçe",
       "kor": "케냐"
     }
   },
@@ -3283,6 +3283,7 @@
     "flag": "flag-ki",
     "name": {
       "common": "Kiribati",
+      "tur": "Kiribati",
       "ces": "Kiribati",
       "deu": "Kiribati",
       "fra": "Kiribati",
@@ -3299,7 +3300,6 @@
       "zho": "基里巴斯",
       "pol": "Kiribati",
       "urd": "کیریباتی",
-      "tur": "Türkçe",
       "kor": "키리바시"
     }
   },
@@ -3311,6 +3311,7 @@
     "flag": "flag-xk",
     "name": {
       "common": "Kosovo",
+      "tur": "Kosova",
       "ces": "Kosovo",
       "deu": "Kosovo",
       "fra": "Kosovo",
@@ -3326,7 +3327,6 @@
       "zho": "科索沃",
       "pol": "Kosowo",
       "urd": "کوسووہ",
-      "tur": "Türkçe",
       "kor": "코소보"
     }
   },
@@ -3338,6 +3338,7 @@
     "flag": "flag-kw",
     "name": {
       "common": "Kuwait",
+      "tur": "Kuveyt",
       "ces": "Kuvajt",
       "deu": "Kuwait",
       "fra": "Koweït",
@@ -3354,7 +3355,6 @@
       "zho": "科威特",
       "pol": "Kuwejt",
       "urd": "کویت",
-      "tur": "Türkçe",
       "kor": "쿠웨이트"
     }
   },
@@ -3366,6 +3366,7 @@
     "flag": "flag-kg",
     "name": {
       "common": "Kyrgyzstan",
+      "tur": "Kırgızistan",
       "ces": "Kyrgyzstán",
       "deu": "Kirgisistan",
       "fra": "Kirghizistan",
@@ -3382,7 +3383,6 @@
       "zho": "吉尔吉斯斯坦",
       "pol": "Kirgistan",
       "urd": "کرغیزستان",
-      "tur": "Türkçe",
       "kor": "키르기스스탄"
     }
   },
@@ -3394,6 +3394,7 @@
     "flag": "flag-la",
     "name": {
       "common": "Laos",
+      "tur": "Laos",
       "ces": "Laos",
       "deu": "Laos",
       "fra": "Laos",
@@ -3410,7 +3411,6 @@
       "zho": "老挝",
       "pol": "Laos",
       "urd": "لاؤس",
-      "tur": "Türkçe",
       "kor": "라오스"
     }
   },
@@ -3422,6 +3422,7 @@
     "flag": "flag-lv",
     "name": {
       "common": "Latvia",
+      "tur": "Letonya",
       "ces": "Lotyšsko",
       "deu": "Lettland",
       "fra": "Lettonie",
@@ -3438,7 +3439,6 @@
       "zho": "拉脱维亚",
       "pol": "Łotwa",
       "urd": "لٹویا",
-      "tur": "Türkçe",
       "kor": "라트비아"
     }
   },
@@ -3450,6 +3450,7 @@
     "flag": "flag-lb",
     "name": {
       "common": "Lebanon",
+      "tur": "Lübnan",
       "ces": "Libanon",
       "deu": "Libanon",
       "fra": "Liban",
@@ -3466,7 +3467,6 @@
       "zho": "黎巴嫩",
       "pol": "Liban",
       "urd": "لبنان",
-      "tur": "Türkçe",
       "kor": "레바논"
     }
   },
@@ -3478,6 +3478,7 @@
     "flag": "flag-ls",
     "name": {
       "common": "Lesotho",
+      "tur": "Lesotho",
       "ces": "Lesotho",
       "deu": "Lesotho",
       "fra": "Lesotho",
@@ -3494,7 +3495,6 @@
       "zho": "莱索托",
       "pol": "Lesotho",
       "urd": "لیسوتھو",
-      "tur": "Türkçe",
       "kor": "레소토"
     }
   },
@@ -3506,6 +3506,7 @@
     "flag": "flag-lr",
     "name": {
       "common": "Liberia",
+      "tur": "Liberya",
       "ces": "Libérie",
       "deu": "Liberia",
       "fra": "Liberia",
@@ -3522,7 +3523,6 @@
       "zho": "利比里亚",
       "pol": "Liberia",
       "urd": "لائبیریا",
-      "tur": "Türkçe",
       "kor": "라이베리아"
     }
   },
@@ -3534,6 +3534,7 @@
     "flag": "flag-ly",
     "name": {
       "common": "Libya",
+      "tur": "Libya",
       "ces": "Libye",
       "deu": "Libyen",
       "fra": "Libye",
@@ -3550,7 +3551,6 @@
       "zho": "利比亚",
       "pol": "Libia",
       "urd": "لیبیا",
-      "tur": "Türkçe",
       "kor": "리비아"
     }
   },
@@ -3562,6 +3562,7 @@
     "flag": "flag-li",
     "name": {
       "common": "Liechtenstein",
+      "tur": "Lihtenştayn",
       "ces": "Lichtenštejnsko",
       "deu": "Liechtenstein",
       "fra": "Liechtenstein",
@@ -3578,7 +3579,6 @@
       "zho": "列支敦士登",
       "pol": "Liechtenstein",
       "urd": "لیختینستائن",
-      "tur": "Türkçe",
       "kor": "리히텐슈타인"
     }
   },
@@ -3590,6 +3590,7 @@
     "flag": "flag-lt",
     "name": {
       "common": "Lithuania",
+      "tur": "Litvanya",
       "ces": "Litva",
       "deu": "Litauen",
       "fra": "Lituanie",
@@ -3606,7 +3607,6 @@
       "zho": "立陶宛",
       "pol": "Litwa",
       "urd": "لتھووینیا",
-      "tur": "Türkçe",
       "kor": "리투아니아"
     }
   },
@@ -3618,6 +3618,7 @@
     "flag": "flag-lu",
     "name": {
       "common": "Luxembourg",
+      "tur": "Lüksemburg",
       "ces": "Lucembursko",
       "deu": "Luxemburg",
       "fra": "Luxembourg",
@@ -3634,7 +3635,6 @@
       "zho": "卢森堡",
       "pol": "Luksemburg",
       "urd": "لکسمبرگ",
-      "tur": "Türkçe",
       "kor": "룩셈부르크"
     }
   },
@@ -3646,6 +3646,7 @@
     "flag": "flag-mo",
     "name": {
       "common": "Macau",
+      "tur": "Makao",
       "ces": "Macao",
       "deu": "Macao",
       "fra": "Macao",
@@ -3661,7 +3662,6 @@
       "est": "Macau",
       "pol": "Makau",
       "urd": "مکاؤ",
-      "tur": "Türkçe",
       "kor": "마카오"
     }
   },
@@ -3673,6 +3673,7 @@
     "flag": "flag-mk",
     "name": {
       "common": "Macedonia",
+      "tur": "Makedonya",
       "ces": "Makedonie",
       "deu": "Mazedonien",
       "fra": "Macédoine",
@@ -3689,7 +3690,6 @@
       "zho": "马其顿",
       "pol": "Macedonia",
       "urd": "مقدونیہ",
-      "tur": "Türkçe",
       "kor": "마케도니아"
     }
   },
@@ -3701,6 +3701,7 @@
     "flag": "flag-mg",
     "name": {
       "common": "Madagascar",
+      "tur": "Madagaskar",
       "ces": "Madagaskar",
       "deu": "Madagaskar",
       "fra": "Madagascar",
@@ -3717,7 +3718,6 @@
       "zho": "马达加斯加",
       "pol": "Madagaskar",
       "urd": "مڈغاسکر",
-      "tur": "Türkçe",
       "kor": "마다가스카르"
     }
   },
@@ -3729,6 +3729,7 @@
     "flag": "flag-mw",
     "name": {
       "common": "Malawi",
+      "tur": "Malavi",
       "ces": "Malawi",
       "deu": "Malawi",
       "fra": "Malawi",
@@ -3745,7 +3746,6 @@
       "zho": "马拉维",
       "pol": "Malawi",
       "urd": "ملاوی",
-      "tur": "Türkçe",
       "kor": "말라위"
     }
   },
@@ -3757,6 +3757,7 @@
     "flag": "flag-my",
     "name": {
       "common": "Malaysia",
+      "tur": "Malezya",
       "ces": "Malajsie",
       "deu": "Malaysia",
       "fra": "Malaisie",
@@ -3773,7 +3774,6 @@
       "zho": "马来西亚",
       "pol": "Malezja",
       "urd": "ملائیشیا",
-      "tur": "Türkçe",
       "kor": "말레이시아"
     }
   },
@@ -3785,6 +3785,7 @@
     "flag": "flag-mv",
     "name": {
       "common": "Maldives",
+      "tur": "Maldivler",
       "ces": "Maledivy",
       "deu": "Malediven",
       "fra": "Maldives",
@@ -3801,7 +3802,6 @@
       "zho": "马尔代夫",
       "pol": "Malediwy",
       "urd": "مالدیپ",
-      "tur": "Türkçe",
       "kor": "몰디브"
     }
   },
@@ -3813,6 +3813,7 @@
     "flag": "flag-ml",
     "name": {
       "common": "Mali",
+      "tur": "Mali",
       "ces": "Mali",
       "deu": "Mali",
       "fra": "Mali",
@@ -3829,7 +3830,6 @@
       "zho": "马里",
       "pol": "Mali",
       "urd": "مالی",
-      "tur": "Türkçe",
       "kor": "말리"
     }
   },
@@ -3841,6 +3841,7 @@
     "flag": "flag-mt",
     "name": {
       "common": "Malta",
+      "tur": "Malta",
       "ces": "Malta",
       "deu": "Malta",
       "fra": "Malte",
@@ -3857,7 +3858,6 @@
       "zho": "马耳他",
       "pol": "Malta",
       "urd": "مالٹا",
-      "tur": "Türkçe",
       "kor": "몰타"
     }
   },
@@ -3869,6 +3869,7 @@
     "flag": "flag-mh",
     "name": {
       "common": "Marshall Islands",
+      "tur": "Marshall Adaları",
       "ces": "Marshallovy ostrovy",
       "deu": "Marshallinseln",
       "fra": "Îles Marshall",
@@ -3885,7 +3886,6 @@
       "zho": "马绍尔群岛",
       "pol": "Wyspy Marshalla",
       "urd": "جزائر مارشل",
-      "tur": "Türkçe",
       "kor": "마셜 제도"
     }
   },
@@ -3897,6 +3897,7 @@
     "flag": "flag-mq",
     "name": {
       "common": "Martinique",
+      "tur": "Martinique",
       "ces": "Martinik",
       "deu": "Martinique",
       "fra": "Martinique",
@@ -3913,7 +3914,6 @@
       "zho": "马提尼克",
       "pol": "Martynika",
       "urd": "مارٹینیک",
-      "tur": "Türkçe",
       "kor": "마르티니크"
     }
   },
@@ -3925,6 +3925,7 @@
     "flag": "flag-mr",
     "name": {
       "common": "Mauritania",
+      "tur": "Moritanya",
       "ces": "Mauritánie",
       "deu": "Mauretanien",
       "fra": "Mauritanie",
@@ -3941,7 +3942,6 @@
       "zho": "毛里塔尼亚",
       "pol": "Mauretania",
       "urd": "موریتانیہ",
-      "tur": "Türkçe",
       "kor": "모리타니"
     }
   },
@@ -3953,6 +3953,7 @@
     "flag": "flag-mu",
     "name": {
       "common": "Mauritius",
+      "tur": "Mauritius",
       "ces": "Mauricius",
       "deu": "Mauritius",
       "fra": "Île Maurice",
@@ -3969,7 +3970,6 @@
       "zho": "毛里求斯",
       "pol": "Mauritius",
       "urd": "موریشس",
-      "tur": "Türkçe",
       "kor": "모리셔스"
     }
   },
@@ -3981,6 +3981,7 @@
     "flag": "flag-yt",
     "name": {
       "common": "Mayotte",
+      "tur": "Mayotte",
       "ces": "Mayotte",
       "deu": "Mayotte",
       "fra": "Mayotte",
@@ -3997,7 +3998,6 @@
       "zho": "马约特",
       "pol": "Majotta",
       "urd": "مایوٹ",
-      "tur": "Türkçe",
       "kor": "마요트"
     }
   },
@@ -4009,6 +4009,7 @@
     "flag": "flag-mx",
     "name": {
       "common": "Mexico",
+      "tur": "Meksika",
       "ces": "Mexiko",
       "deu": "Mexiko",
       "fra": "Mexique",
@@ -4025,7 +4026,6 @@
       "zho": "墨西哥",
       "pol": "Meksyk",
       "urd": "میکسیکو",
-      "tur": "Türkçe",
       "kor": "멕시코"
     }
   },
@@ -4037,6 +4037,7 @@
     "flag": "flag-fm",
     "name": {
       "common": "Micronesia",
+      "tur": "Mikronezya",
       "ces": "Mikronésie",
       "deu": "Mikronesien",
       "fra": "Micronésie",
@@ -4053,7 +4054,6 @@
       "zho": "密克罗尼西亚",
       "pol": "Mikronezja",
       "urd": "مائکرونیشیا",
-      "tur": "Türkçe",
       "kor": "미크로네시아"
     }
   },
@@ -4065,6 +4065,7 @@
     "flag": "flag-md",
     "name": {
       "common": "Moldova",
+      "tur": "Moldova",
       "ces": "Moldavsko",
       "deu": "Moldawien",
       "fra": "Moldavie",
@@ -4081,7 +4082,6 @@
       "zho": "摩尔多瓦",
       "pol": "Mołdawia",
       "urd": "مالدووا",
-      "tur": "Türkçe",
       "kor": "몰도바"
     }
   },
@@ -4093,6 +4093,7 @@
     "flag": "flag-mc",
     "name": {
       "common": "Monaco",
+      "tur": "Monako",
       "ces": "Monako",
       "deu": "Monaco",
       "fra": "Monaco",
@@ -4109,7 +4110,6 @@
       "zho": "摩纳哥",
       "pol": "Monako",
       "urd": "موناکو",
-      "tur": "Türkçe",
       "kor": "모나코"
     }
   },
@@ -4121,6 +4121,7 @@
     "flag": "flag-mn",
     "name": {
       "common": "Mongolia",
+      "tur": "Moğolistan",
       "ces": "Mongolsko",
       "deu": "Mongolei",
       "fra": "Mongolie",
@@ -4137,7 +4138,6 @@
       "zho": "蒙古",
       "pol": "Mongolia",
       "urd": "منگولیا",
-      "tur": "Türkçe",
       "kor": "몽골국"
     }
   },
@@ -4149,6 +4149,7 @@
     "flag": "flag-me",
     "name": {
       "common": "Montenegro",
+      "tur": "Karadağ",
       "ces": "Černá Hora",
       "deu": "Montenegro",
       "fra": "Monténégro",
@@ -4165,7 +4166,6 @@
       "zho": "黑山",
       "pol": "Czarnogóra",
       "urd": "مونٹینیگرو",
-      "tur": "Türkçe",
       "kor": "몬테네그로"
     }
   },
@@ -4177,6 +4177,7 @@
     "flag": "flag-ms",
     "name": {
       "common": "Montserrat",
+      "tur": "Montserrat",
       "ces": "Montserrat",
       "deu": "Montserrat",
       "fra": "Montserrat",
@@ -4193,7 +4194,6 @@
       "zho": "蒙特塞拉特",
       "pol": "Montserrat",
       "urd": "مانٹسریٹ",
-      "tur": "Türkçe",
       "kor": "몬트세랫"
     }
   },
@@ -4205,6 +4205,7 @@
     "flag": "flag-ma",
     "name": {
       "common": "Morocco",
+      "tur": "Fas",
       "ces": "Maroko",
       "deu": "Marokko",
       "fra": "Maroc",
@@ -4221,7 +4222,6 @@
       "zho": "摩洛哥",
       "pol": "Maroko",
       "urd": "مراکش",
-      "tur": "Türkçe",
       "kor": "모로코"
     }
   },
@@ -4233,6 +4233,7 @@
     "flag": "flag-mz",
     "name": {
       "common": "Mozambique",
+      "tur": "Mozambik",
       "ces": "Mosambik",
       "deu": "Mosambik",
       "fra": "Mozambique",
@@ -4249,7 +4250,6 @@
       "zho": "莫桑比克",
       "pol": "Mozambik",
       "urd": "موزمبیق",
-      "tur": "Türkçe",
       "kor": "모잠비크"
     }
   },
@@ -4261,6 +4261,7 @@
     "flag": "flag-mm",
     "name": {
       "common": "Myanmar",
+      "tur": "Myanmar",
       "ces": "Myanmar",
       "deu": "Myanmar",
       "fra": "Birmanie",
@@ -4277,7 +4278,6 @@
       "zho": "缅甸",
       "pol": "Mjanma",
       "urd": "میانمار",
-      "tur": "Türkçe",
       "kor": "미얀마"
     }
   },
@@ -4289,6 +4289,7 @@
     "flag": "flag-na",
     "name": {
       "common": "Namibia",
+      "tur": "Namibya",
       "ces": "Namibie",
       "deu": "Namibia",
       "fra": "Namibie",
@@ -4305,7 +4306,6 @@
       "zho": "纳米比亚",
       "pol": "Namibia",
       "urd": "نمیبیا",
-      "tur": "Türkçe",
       "kor": "나미비아"
     }
   },
@@ -4317,6 +4317,7 @@
     "flag": "flag-nr",
     "name": {
       "common": "Nauru",
+      "tur": "Nauru",
       "ces": "Nauru",
       "deu": "Nauru",
       "fra": "Nauru",
@@ -4333,7 +4334,6 @@
       "zho": "瑙鲁",
       "pol": "Nauru",
       "urd": "ناورو",
-      "tur": "Türkçe",
       "kor": "나우루"
     }
   },
@@ -4345,6 +4345,7 @@
     "flag": "flag-np",
     "name": {
       "common": "Nepal",
+      "tur": "Nepal",
       "ces": "Nepál",
       "deu": "Nepal",
       "fra": "Népal",
@@ -4361,7 +4362,6 @@
       "zho": "尼泊尔",
       "pol": "Nepal",
       "urd": "نیپال",
-      "tur": "Türkçe",
       "kor": "네팔"
     }
   },
@@ -4373,6 +4373,7 @@
     "flag": "flag-nl",
     "name": {
       "common": "Netherlands",
+      "tur": "Hollanda",
       "ces": "Nizozemsko",
       "deu": "Niederlande",
       "fra": "Pays-Bas",
@@ -4389,7 +4390,6 @@
       "zho": "荷兰",
       "pol": "Holandia",
       "urd": "نیدرلینڈز",
-      "tur": "Türkçe",
       "kor": "네덜란드"
     }
   },
@@ -4401,6 +4401,7 @@
     "flag": "flag-nc",
     "name": {
       "common": "New Caledonia",
+      "tur": "Yeni Kaledonya",
       "ces": "Nová Kaledonie",
       "deu": "Neukaledonien",
       "fra": "Nouvelle-Calédonie",
@@ -4417,7 +4418,6 @@
       "zho": "新喀里多尼亚",
       "pol": "Nowa Kaledonia",
       "urd": "نیو کیلیڈونیا",
-      "tur": "Türkçe",
       "kor": "누벨칼레도니"
     }
   },
@@ -4429,6 +4429,7 @@
     "flag": "flag-nz",
     "name": {
       "common": "New Zealand",
+      "tur": "Yeni Zelanda",
       "ces": "Nový Zéland",
       "deu": "Neuseeland",
       "fra": "Nouvelle-Zélande",
@@ -4445,7 +4446,6 @@
       "zho": "新西兰",
       "pol": "Nowa Zelandia",
       "urd": "نیوزی لینڈ",
-      "tur": "Türkçe",
       "kor": "뉴질랜드"
     }
   },
@@ -4457,6 +4457,7 @@
     "flag": "flag-ni",
     "name": {
       "common": "Nicaragua",
+      "tur": "Nikaragua",
       "ces": "Nikaragua",
       "deu": "Nicaragua",
       "fra": "Nicaragua",
@@ -4473,7 +4474,6 @@
       "zho": "尼加拉瓜",
       "pol": "Nikaragua",
       "urd": "نکاراگوا",
-      "tur": "Türkçe",
       "kor": "니카라과"
     }
   },
@@ -4485,6 +4485,7 @@
     "flag": "flag-ne",
     "name": {
       "common": "Niger",
+      "tur": "Nijer",
       "ces": "Niger",
       "deu": "Niger",
       "fra": "Niger",
@@ -4501,7 +4502,6 @@
       "zho": "尼日尔",
       "pol": "Niger",
       "urd": "نائجر",
-      "tur": "Türkçe",
       "kor": "니제르"
     }
   },
@@ -4513,6 +4513,7 @@
     "flag": "flag-ng",
     "name": {
       "common": "Nigeria",
+      "tur": "Nijerya",
       "ces": "Nigérie",
       "deu": "Nigeria",
       "fra": "Nigéria",
@@ -4529,7 +4530,6 @@
       "zho": "尼日利亚",
       "pol": "Nigeria",
       "urd": "نائجیریا",
-      "tur": "Türkçe",
       "kor": "나이지리아"
     }
   },
@@ -4541,6 +4541,7 @@
     "flag": "flag-nu",
     "name": {
       "common": "Niue",
+      "tur": "Niue",
       "ces": "Niue",
       "deu": "Niue",
       "fra": "Niue",
@@ -4557,7 +4558,6 @@
       "zho": "纽埃",
       "pol": "Niue",
       "urd": "نیووے",
-      "tur": "Türkçe",
       "kor": "니우에"
     }
   },
@@ -4569,6 +4569,7 @@
     "flag": "flag-nf",
     "name": {
       "common": "Norfolk Island",
+      "tur": "Norfolk Adası",
       "ces": "Norfolk",
       "deu": "Norfolkinsel",
       "fra": "Île Norfolk",
@@ -4585,7 +4586,6 @@
       "zho": "诺福克岛",
       "pol": "Wyspa Norfolk",
       "urd": "جزیرہ نورفک",
-      "tur": "Türkçe",
       "kor": "노퍽 섬"
     }
   },
@@ -4597,6 +4597,7 @@
     "flag": "flag-kp",
     "name": {
       "common": "North Korea",
+      "tur": "Kuzey Kore",
       "ces": "Severní Korea",
       "deu": "Nordkorea",
       "fra": "Corée du Nord",
@@ -4613,7 +4614,6 @@
       "zho": "朝鲜",
       "pol": "Korea Północna",
       "urd": "شمالی کوریا",
-      "tur": "Türkçe",
       "kor": "조선"
     }
   },
@@ -4625,6 +4625,7 @@
     "flag": "flag-mp",
     "name": {
       "common": "Northern Mariana Islands",
+      "tur": "Kuzey Mariana Adaları",
       "ces": "Severní Mariany",
       "deu": "Nördliche Marianen",
       "fra": "Îles Mariannes du Nord",
@@ -4641,7 +4642,6 @@
       "zho": "北马里亚纳群岛",
       "pol": "Mariany Północne",
       "urd": "جزائر شمالی ماریانا",
-      "tur": "Türkçe",
       "kor": "북마리아나 제도"
     }
   },
@@ -4653,6 +4653,7 @@
     "flag": "flag-no",
     "name": {
       "common": "Norway",
+      "tur": "Norveç",
       "ces": "Norsko",
       "deu": "Norwegen",
       "fra": "Norvège",
@@ -4669,7 +4670,6 @@
       "zho": "挪威",
       "pol": "Norwegia",
       "urd": "ناروے",
-      "tur": "Türkçe",
       "kor": "노르웨이"
     }
   },
@@ -4681,6 +4681,7 @@
     "flag": "flag-om",
     "name": {
       "common": "Oman",
+      "tur": "Umman",
       "ces": "Omán",
       "deu": "Oman",
       "fra": "Oman",
@@ -4697,7 +4698,6 @@
       "zho": "阿曼",
       "pol": "Oman",
       "urd": "عمان",
-      "tur": "Türkçe",
       "kor": "오만"
     }
   },
@@ -4709,6 +4709,7 @@
     "flag": "flag-pk",
     "name": {
       "common": "Pakistan",
+      "tur": "Pakistan",
       "ces": "Pákistán",
       "deu": "Pakistan",
       "fra": "Pakistan",
@@ -4725,7 +4726,6 @@
       "zho": "巴基斯坦",
       "pol": "Pakistan",
       "urd": "پاکستان",
-      "tur": "Türkçe",
       "kor": "파키스탄"
     }
   },
@@ -4737,6 +4737,7 @@
     "flag": "flag-pw",
     "name": {
       "common": "Palau",
+      "tur": "Palau",
       "ces": "Palau",
       "deu": "Palau",
       "fra": "Palaos (Palau)",
@@ -4753,7 +4754,6 @@
       "zho": "帕劳",
       "pol": "Palau",
       "urd": "پلاؤ",
-      "tur": "Türkçe",
       "kor": "팔라우"
     }
   },
@@ -4765,6 +4765,7 @@
     "flag": "flag-ps",
     "name": {
       "common": "Palestine",
+      "tur": "Filistin",
       "ces": "Palestina",
       "deu": "Palästina",
       "fra": "Palestine",
@@ -4781,7 +4782,6 @@
       "zho": "巴勒斯坦",
       "pol": "Palestyna",
       "urd": "فلسطین",
-      "tur": "Türkçe",
       "kor": "팔레스타인"
     }
   },
@@ -4793,6 +4793,7 @@
     "flag": "flag-pa",
     "name": {
       "common": "Panama",
+      "tur": "Panama",
       "ces": "Panama",
       "deu": "Panama",
       "fra": "Panama",
@@ -4809,7 +4810,6 @@
       "zho": "巴拿马",
       "pol": "Panama",
       "urd": "پاناما",
-      "tur": "Türkçe",
       "kor": "파나마"
     }
   },
@@ -4821,6 +4821,7 @@
     "flag": "flag-pg",
     "name": {
       "common": "Papua New Guinea",
+      "tur": "Papua Yeni Gine",
       "ces": "Papua-Nová Guinea",
       "deu": "Papua-Neuguinea",
       "fra": "Papouasie-Nouvelle-Guinée",
@@ -4837,7 +4838,6 @@
       "zho": "巴布亚新几内亚",
       "pol": "Papua-Nowa Gwinea",
       "urd": "پاپوا نیو گنی",
-      "tur": "Türkçe",
       "kor": "파푸아뉴기니"
     }
   },
@@ -4849,6 +4849,7 @@
     "flag": "flag-py",
     "name": {
       "common": "Paraguay",
+      "tur": "Paraguay",
       "ces": "Paraguay",
       "deu": "Paraguay",
       "fra": "Paraguay",
@@ -4865,7 +4866,6 @@
       "zho": "巴拉圭",
       "pol": "Paragwaj",
       "urd": "پیراگوئے",
-      "tur": "Türkçe",
       "kor": "파라과이"
     }
   },
@@ -4877,6 +4877,7 @@
     "flag": "flag-pe",
     "name": {
       "common": "Peru",
+      "tur": "Peru",
       "ces": "Peru",
       "deu": "Peru",
       "fra": "Pérou",
@@ -4893,7 +4894,6 @@
       "zho": "秘鲁",
       "pol": "Peru",
       "urd": "پیرو",
-      "tur": "Türkçe",
       "kor": "페루"
     }
   },
@@ -4905,6 +4905,7 @@
     "flag": "flag-ph",
     "name": {
       "common": "Philippines",
+      "tur": "Filipinler",
       "ces": "Filipíny",
       "deu": "Philippinen",
       "fra": "Philippines",
@@ -4921,7 +4922,6 @@
       "zho": "菲律宾",
       "pol": "Filipiny",
       "urd": "فلپائن",
-      "tur": "Türkçe",
       "kor": "필리핀"
     }
   },
@@ -4933,6 +4933,7 @@
     "flag": "flag-pn",
     "name": {
       "common": "Pitcairn Islands",
+      "tur": "Pitcairn Adaları",
       "ces": "Pitcairnovy ostrovy",
       "deu": "Pitcairninseln",
       "fra": "Îles Pitcairn",
@@ -4949,7 +4950,6 @@
       "zho": "皮特凯恩群岛",
       "pol": "Pitcairn",
       "urd": "جزائر پٹکیرن",
-      "tur": "Türkçe",
       "kor": "핏케언 제도"
     }
   },
@@ -4961,6 +4961,7 @@
     "flag": "flag-pl",
     "name": {
       "common": "Poland",
+      "tur": "Polonya",
       "ces": "Polsko",
       "deu": "Polen",
       "fra": "Pologne",
@@ -4977,7 +4978,6 @@
       "zho": "波兰",
       "pol": "Polska",
       "urd": "پولینڈ",
-      "tur": "Türkçe",
       "kor": "폴란드"
     }
   },
@@ -4989,6 +4989,7 @@
     "flag": "flag-pt",
     "name": {
       "common": "Portugal",
+      "tur": "Portekiz",
       "ces": "Portugalsko",
       "deu": "Portugal",
       "fra": "Portugal",
@@ -5005,7 +5006,6 @@
       "zho": "葡萄牙",
       "pol": "Portugalia",
       "urd": "پرتگال",
-      "tur": "Türkçe",
       "kor": "포르투갈"
     }
   },
@@ -5017,6 +5017,7 @@
     "flag": "flag-pr",
     "name": {
       "common": "Puerto Rico",
+      "tur": "Porto Riko",
       "ces": "Portoriko",
       "deu": "Puerto Rico",
       "fra": "Porto Rico",
@@ -5033,7 +5034,6 @@
       "zho": "波多黎各",
       "pol": "Portoryko",
       "urd": "پورٹو ریکو",
-      "tur": "Türkçe",
       "kor": "푸에르토리코"
     }
   },
@@ -5045,6 +5045,7 @@
     "flag": "flag-qa",
     "name": {
       "common": "Qatar",
+      "tur": "Katar",
       "ces": "Katar",
       "deu": "Katar",
       "fra": "Qatar",
@@ -5061,7 +5062,6 @@
       "zho": "卡塔尔",
       "pol": "Katar",
       "urd": "قطر",
-      "tur": "Türkçe",
       "kor": "카타르"
     }
   },
@@ -5073,6 +5073,7 @@
     "flag": "flag-cg",
     "name": {
       "common": "Republic of the Congo",
+      "tur": "Kongo Cumhuriyeti",
       "ces": "Kongo",
       "cym": "Gweriniaeth y Congo",
       "deu": "Kongo",
@@ -5090,7 +5091,6 @@
       "zho": "刚果",
       "pol": "Kongo",
       "urd": "جمہوریہ کانگو",
-      "tur": "Türkçe",
       "kor": "콩고"
     }
   },
@@ -5102,6 +5102,7 @@
     "flag": "flag-ro",
     "name": {
       "common": "Romania",
+      "tur": "Romanya",
       "ces": "Rumunsko",
       "deu": "Rumänien",
       "fra": "Roumanie",
@@ -5118,7 +5119,6 @@
       "zho": "罗马尼亚",
       "pol": "Rumunia",
       "urd": "رومانیہ",
-      "tur": "Türkçe",
       "kor": "루마니아"
     }
   },
@@ -5130,6 +5130,7 @@
     "flag": "flag-ru",
     "name": {
       "common": "Russia",
+      "tur": "Rusya",
       "ces": "Rusko",
       "deu": "Russland",
       "fra": "Russie",
@@ -5146,7 +5147,6 @@
       "zho": "俄罗斯",
       "pol": "Rosja",
       "urd": "روس",
-      "tur": "Türkçe",
       "kor": "러시아"
     }
   },
@@ -5158,6 +5158,7 @@
     "flag": "flag-rw",
     "name": {
       "common": "Rwanda",
+      "tur": "Ruanda",
       "ces": "Rwanda",
       "deu": "Ruanda",
       "fra": "Rwanda",
@@ -5174,7 +5175,6 @@
       "zho": "卢旺达",
       "pol": "Rwanda",
       "urd": "روانڈا",
-      "tur": "Türkçe",
       "kor": "르완다"
     }
   },
@@ -5186,6 +5186,7 @@
     "flag": "flag-re",
     "name": {
       "common": "Réunion",
+      "tur": "Réunion",
       "ces": "Réunion",
       "deu": "Réunion",
       "fra": "Réunion",
@@ -5202,7 +5203,6 @@
       "zho": "留尼旺岛",
       "pol": "Reunion",
       "urd": "رے یونیوں",
-      "tur": "Türkçe",
       "kor": "레위니옹"
     }
   },
@@ -5214,6 +5214,7 @@
     "flag": "flag-bl",
     "name": {
       "common": "Saint Barthélemy",
+      "tur": "Saint Barthélemy",
       "ces": "Svatý Bartoloměj",
       "deu": "Saint-Barthélemy",
       "fra": "Saint-Barthélemy",
@@ -5230,7 +5231,6 @@
       "zho": "圣巴泰勒米",
       "pol": "Saint-Barthélemy",
       "urd": "سینٹ بارتھیملے",
-      "tur": "Türkçe",
       "kor": "생바르텔레미"
     }
   },
@@ -5242,6 +5242,7 @@
     "flag": "flag-sh",
     "name": {
       "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "tur": "Saint Helena, Ascension ve Tristan da Cunha",
       "ces": "Svatá Helena, Ascension a Tristan da Cunha",
       "deu": "St. Helena, Ascension und Tristan da Cunha",
       "fra": "Sainte-Hélène, Ascension et Tristan da Cunha",
@@ -5258,7 +5259,6 @@
       "zho": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
       "pol": "Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
       "urd": "سینٹ ہلینا، اسینشن و ترسٹان دا کونیا",
-      "tur": "Türkçe",
       "kor": "세인트헬레나"
     }
   },
@@ -5270,6 +5270,7 @@
     "flag": "flag-kn",
     "name": {
       "common": "Saint Kitts and Nevis",
+      "tur": "Saint Kitts ve Nevis",
       "ces": "Svatý Kryštof a Nevis",
       "deu": "St. Kitts und Nevis",
       "fra": "Saint-Christophe-et-Niévès",
@@ -5286,7 +5287,6 @@
       "zho": "圣基茨和尼维斯",
       "pol": "Saint Kitts i Nevis",
       "urd": "سینٹ کیٹز و ناویس",
-      "tur": "Türkçe",
       "kor": "세인트키츠 네비스"
     }
   },
@@ -5298,6 +5298,7 @@
     "flag": "flag-lc",
     "name": {
       "common": "Saint Lucia",
+      "tur": "Saint Lucia",
       "ces": "Svatá Lucie",
       "deu": "St. Lucia",
       "fra": "Sainte-Lucie",
@@ -5314,7 +5315,6 @@
       "zho": "圣卢西亚",
       "pol": "Saint Lucia",
       "urd": "سینٹ لوسیا",
-      "tur": "Türkçe",
       "kor": "세인트루시아"
     }
   },
@@ -5326,6 +5326,7 @@
     "flag": "flag-mf",
     "name": {
       "common": "Saint Martin",
+      "tur": "Saint Martin",
       "ces": "Svatý Martin (Francie)",
       "deu": "Saint-Martin",
       "fra": "Saint-Martin",
@@ -5342,7 +5343,6 @@
       "zho": "圣马丁",
       "pol": "Saint-Martin",
       "urd": "سینٹ مارٹن",
-      "tur": "Türkçe",
       "kor": "생마르탱"
     }
   },
@@ -5354,6 +5354,7 @@
     "flag": "flag-pm",
     "name": {
       "common": "Saint Pierre and Miquelon",
+      "tur": "Saint Pierre ve Miquelon",
       "ces": "Saint-Pierre a Miquelon",
       "deu": "St. Pierre und Miquelon",
       "fra": "Saint-Pierre-et-Miquelon",
@@ -5370,7 +5371,6 @@
       "zho": "圣皮埃尔和密克隆",
       "pol": "Saint-Pierre i Miquelon",
       "urd": "سینٹ پیئر و میکیلون",
-      "tur": "Türkçe",
       "kor": "생피에르 미클롱"
     }
   },
@@ -5382,6 +5382,7 @@
     "flag": "flag-vc",
     "name": {
       "common": "Saint Vincent and the Grenadines",
+      "tur": "Saint Vincent ve Grenadinler",
       "ces": "Svatý Vincenc a Grenadiny",
       "deu": "St. Vincent und die Grenadinen",
       "fra": "Saint-Vincent-et-les-Grenadines",
@@ -5398,7 +5399,6 @@
       "zho": "圣文森特和格林纳丁斯",
       "pol": "Saint Vincent i Grenadyny",
       "urd": "سینٹ وینسینٹ و گریناڈائنز",
-      "tur": "Türkçe",
       "kor": "세인트빈센트 그레나딘"
     }
   },
@@ -5410,6 +5410,7 @@
     "flag": "flag-ws",
     "name": {
       "common": "Samoa",
+      "tur": "Samoa",
       "ces": "Samoa",
       "deu": "Samoa",
       "fra": "Samoa",
@@ -5426,7 +5427,6 @@
       "zho": "萨摩亚",
       "pol": "Samoa",
       "urd": "سامووا",
-      "tur": "Türkçe",
       "kor": "사모아"
     }
   },
@@ -5438,6 +5438,7 @@
     "flag": "flag-sm",
     "name": {
       "common": "San Marino",
+      "tur": "San Marino",
       "ces": "San Marino",
       "deu": "San Marino",
       "fra": "Saint-Marin",
@@ -5454,7 +5455,6 @@
       "zho": "圣马力诺",
       "pol": "San Marino",
       "urd": "سان مارینو",
-      "tur": "Türkçe",
       "kor": "산마리노"
     }
   },
@@ -5466,6 +5466,7 @@
     "flag": "flag-sa",
     "name": {
       "common": "Saudi Arabia",
+      "tur": "Suudi Arabistan",
       "ces": "Saúdská Arábie",
       "deu": "Saudi-Arabien",
       "fra": "Arabie Saoudite",
@@ -5482,7 +5483,6 @@
       "zho": "沙特阿拉伯",
       "pol": "Arabia Saudyjska",
       "urd": "سعودی عرب",
-      "tur": "Türkçe",
       "kor": "사우디아라비아"
     }
   },
@@ -5494,6 +5494,7 @@
     "flag": "flag-sn",
     "name": {
       "common": "Senegal",
+      "tur": "Senegal",
       "ces": "Senegal",
       "deu": "Senegal",
       "fra": "Sénégal",
@@ -5510,7 +5511,6 @@
       "zho": "塞内加尔",
       "pol": "Senegal",
       "urd": "سینیگال",
-      "tur": "Türkçe",
       "kor": "세네갈"
     }
   },
@@ -5522,6 +5522,7 @@
     "flag": "flag-rs",
     "name": {
       "common": "Serbia",
+      "tur": "Sırbistan",
       "ces": "Srbsko",
       "deu": "Serbien",
       "fra": "Serbie",
@@ -5538,7 +5539,6 @@
       "zho": "塞尔维亚",
       "pol": "Serbia",
       "urd": "سربیا",
-      "tur": "Türkçe",
       "kor": "세르비아"
     }
   },
@@ -5550,6 +5550,7 @@
     "flag": "flag-sc",
     "name": {
       "common": "Seychelles",
+      "tur": "Seyşeller",
       "ces": "Seychely",
       "deu": "Seychellen",
       "fra": "Seychelles",
@@ -5566,7 +5567,6 @@
       "zho": "塞舌尔",
       "pol": "Seszele",
       "urd": "سیچیلیس",
-      "tur": "Türkçe",
       "kor": "세이셸"
     }
   },
@@ -5578,6 +5578,7 @@
     "flag": "flag-sl",
     "name": {
       "common": "Sierra Leone",
+      "tur": "Sierra Leone",
       "ces": "Sierra Leone",
       "deu": "Sierra Leone",
       "fra": "Sierra Leone",
@@ -5594,7 +5595,6 @@
       "zho": "塞拉利昂",
       "pol": "Sierra Leone",
       "urd": "سیرالیون",
-      "tur": "Türkçe",
       "kor": "시에라리온"
     }
   },
@@ -5606,6 +5606,7 @@
     "flag": "flag-sg",
     "name": {
       "common": "Singapore",
+      "tur": "Singapur",
       "ces": "Singapur",
       "deu": "Singapur",
       "fra": "Singapour",
@@ -5621,7 +5622,6 @@
       "est": "Singapur",
       "pol": "Singapur",
       "urd": "سنگاپور",
-      "tur": "Türkçe",
       "kor": "싱가포르"
     }
   },
@@ -5633,6 +5633,7 @@
     "flag": "flag-sx",
     "name": {
       "common": "Sint Maarten",
+      "tur": "Sint Maarten",
       "ces": "Svatý Martin (Nizozemsko)",
       "deu": "Sint Maarten",
       "fra": "Saint-Martin",
@@ -5649,7 +5650,6 @@
       "zho": "圣马丁岛",
       "pol": "Sint Maarten",
       "urd": "سنٹ مارٹن",
-      "tur": "Türkçe",
       "kor": "신트마르턴"
     }
   },
@@ -5661,6 +5661,7 @@
     "flag": "flag-sk",
     "name": {
       "common": "Slovakia",
+      "tur": "Slovakya",
       "ces": "Slovensko",
       "deu": "Slowakei",
       "fra": "Slovaquie",
@@ -5677,7 +5678,6 @@
       "zho": "斯洛伐克",
       "pol": "Słowacja",
       "urd": "سلوواکیہ",
-      "tur": "Türkçe",
       "kor": "슬로바키아"
     }
   },
@@ -5689,6 +5689,7 @@
     "flag": "flag-si",
     "name": {
       "common": "Slovenia",
+      "tur": "Slovenya",
       "ces": "Slovinsko",
       "deu": "Slowenien",
       "fra": "Slovénie",
@@ -5705,7 +5706,6 @@
       "zho": "斯洛文尼亚",
       "pol": "Słowenia",
       "urd": "سلووینیا",
-      "tur": "Türkçe",
       "kor": "슬로베니아"
     }
   },
@@ -5717,6 +5717,7 @@
     "flag": "flag-sb",
     "name": {
       "common": "Solomon Islands",
+      "tur": "Solomon Adaları",
       "ces": "Šalamounovy ostrovy",
       "deu": "Salomonen",
       "fra": "Îles Salomon",
@@ -5733,7 +5734,6 @@
       "zho": "所罗门群岛",
       "pol": "Wyspy Salomona",
       "urd": "جزائر سلیمان",
-      "tur": "Türkçe",
       "kor": "솔로몬 제도"
     }
   },
@@ -5745,6 +5745,7 @@
     "flag": "flag-so",
     "name": {
       "common": "Somalia",
+      "tur": "Somali",
       "ces": "Somálsko",
       "deu": "Somalia",
       "fra": "Somalie",
@@ -5761,7 +5762,6 @@
       "zho": "索马里",
       "pol": "Somalia",
       "urd": "صومالیہ",
-      "tur": "Türkçe",
       "kor": "소말리아"
     }
   },
@@ -5773,6 +5773,7 @@
     "flag": "flag-za",
     "name": {
       "common": "South Africa",
+      "tur": "Güney Afrika",
       "ces": "Jihoafrická republika",
       "deu": "Südafrika",
       "fra": "Afrique du Sud",
@@ -5789,7 +5790,6 @@
       "zho": "南非",
       "pol": "Południowa Afryka",
       "urd": "جنوبی افریقا",
-      "tur": "Türkçe",
       "kor": "남아프리카"
     }
   },
@@ -5801,6 +5801,7 @@
     "flag": "flag-gs",
     "name": {
       "common": "South Georgia",
+      "tur": "Güney Gürcistan",
       "ces": "Jižní Georgie a Jižní Sandwichovy ostrovy",
       "deu": "Südgeorgien und die Südlichen Sandwichinseln",
       "fra": "Géorgie du Sud-et-les Îles Sandwich du Sud",
@@ -5817,7 +5818,6 @@
       "zho": "南乔治亚",
       "pol": "Georgia Południowa i Sandwich Południowy",
       "urd": "جنوبی جارجیا",
-      "tur": "Türkçe",
       "kor": "조지아"
     }
   },
@@ -5829,6 +5829,7 @@
     "flag": "flag-kr",
     "name": {
       "common": "South Korea",
+      "tur": "Güney Kore",
       "ces": "Jižní Korea",
       "deu": "Südkorea",
       "fra": "Corée du Sud",
@@ -5845,7 +5846,6 @@
       "zho": "韩国",
       "pol": "Korea Południowa",
       "urd": "جنوبی کوریا",
-      "tur": "Türkçe",
       "kor": "한국"
     }
   },
@@ -5857,6 +5857,7 @@
     "flag": "flag-ss",
     "name": {
       "common": "South Sudan",
+      "tur": "Güney Sudan",
       "ces": "Jižní Súdán",
       "deu": "Südsudan",
       "fra": "Soudan du Sud",
@@ -5873,7 +5874,6 @@
       "zho": "南苏丹",
       "pol": "Sudan",
       "urd": "جنوبی سوڈان",
-      "tur": "Türkçe",
       "kor": "남수단"
     }
   },
@@ -5885,6 +5885,7 @@
     "flag": "flag-es",
     "name": {
       "common": "Spain",
+      "tur": "İspanya",
       "ces": "Španělsko",
       "deu": "Spanien",
       "fra": "Espagne",
@@ -5901,7 +5902,6 @@
       "zho": "西班牙",
       "pol": "Hiszpania",
       "urd": "ہسپانیہ",
-      "tur": "Türkçe",
       "kor": "스페인"
     }
   },
@@ -5913,6 +5913,7 @@
     "flag": "flag-lk",
     "name": {
       "common": "Sri Lanka",
+      "tur": "Sri Lanka",
       "ces": "Srí Lanka",
       "deu": "Sri Lanka",
       "fra": "Sri Lanka",
@@ -5929,7 +5930,6 @@
       "zho": "斯里兰卡",
       "pol": "Sri Lanka",
       "urd": "سری لنکا",
-      "tur": "Türkçe",
       "kor": "스리랑카"
     }
   },
@@ -5941,6 +5941,7 @@
     "flag": "flag-sd",
     "name": {
       "common": "Sudan",
+      "tur": "Sudan",
       "ces": "Súdán",
       "deu": "Sudan",
       "fra": "Soudan",
@@ -5957,7 +5958,6 @@
       "zho": "苏丹",
       "pol": "Sudan",
       "urd": "سودان",
-      "tur": "Türkçe",
       "kor": "수단"
     }
   },
@@ -5969,6 +5969,7 @@
     "flag": "flag-sr",
     "name": {
       "common": "Suriname",
+      "tur": "Surinam",
       "ces": "Surinam",
       "deu": "Suriname",
       "fra": "Surinam",
@@ -5985,7 +5986,6 @@
       "zho": "苏里南",
       "pol": "Surinam",
       "urd": "سرینام",
-      "tur": "Türkçe",
       "kor": "수리남"
     }
   },
@@ -5997,6 +5997,7 @@
     "flag": "flag-sj",
     "name": {
       "common": "Svalbard and Jan Mayen",
+      "tur": "Svalbard ve Jan Mayen",
       "ces": "Špicberky a Jan Mayen",
       "deu": "Spitzbergen und Jan Mayen",
       "fra": "Svalbard et Jan Mayen",
@@ -6013,7 +6014,6 @@
       "zho": "斯瓦尔巴特",
       "pol": "Svalbard i Jan Mayen",
       "urd": "سوالبارڈ اور جان میئن",
-      "tur": "Türkçe",
       "kor": "스발바르 얀마옌 제도"
     }
   },
@@ -6025,6 +6025,7 @@
     "flag": "flag-se",
     "name": {
       "common": "Sweden",
+      "tur": "İsveç",
       "ces": "Švédsko",
       "deu": "Schweden",
       "fra": "Suède",
@@ -6041,7 +6042,6 @@
       "zho": "瑞典",
       "pol": "Szwecja",
       "urd": "سویڈن",
-      "tur": "Türkçe",
       "kor": "스웨덴"
     }
   },
@@ -6053,6 +6053,7 @@
     "flag": "flag-ch",
     "name": {
       "common": "Switzerland",
+      "tur": "İsviçre",
       "ces": "Švýcarsko",
       "deu": "Schweiz",
       "fra": "Suisse",
@@ -6069,7 +6070,6 @@
       "zho": "瑞士",
       "pol": "Szwajcaria",
       "urd": "سویٹذرلینڈ",
-      "tur": "Türkçe",
       "kor": "스위스"
     }
   },
@@ -6081,6 +6081,7 @@
     "flag": "flag-sy",
     "name": {
       "common": "Syria",
+      "tur": "Suriye",
       "ces": "Sýrie",
       "deu": "Syrien",
       "fra": "Syrie",
@@ -6097,7 +6098,6 @@
       "zho": "叙利亚",
       "pol": "Syria",
       "urd": "سوریہ",
-      "tur": "Türkçe",
       "kor": "시리아"
     }
   },
@@ -6109,6 +6109,7 @@
     "flag": "flag-st",
     "name": {
       "common": "São Tomé and Príncipe",
+      "tur": "São Tomé ve Príncipe",
       "ces": "Svatý Tomáš a Princův ostrov",
       "deu": "São Tomé und Príncipe",
       "fra": "São Tomé et Príncipe",
@@ -6125,7 +6126,6 @@
       "zho": "圣多美和普林西比",
       "pol": "Wyspy Świętego Tomasza i Książęca",
       "urd": "ساؤ ٹومے و پرنسپے",
-      "tur": "Türkçe",
       "kor": "상투메 프린시페"
     }
   },
@@ -6137,6 +6137,7 @@
     "flag": "flag-tw",
     "name": {
       "common": "Taiwan",
+      "tur": "Tayvan",
       "ces": "Tchaj-wan",
       "deu": "Taiwan",
       "fra": "Taïwan",
@@ -6152,7 +6153,6 @@
       "est": "Taiwan",
       "pol": "Tajwan",
       "urd": "تائیوان",
-      "tur": "Türkçe",
       "kor": "대만"
     }
   },
@@ -6164,6 +6164,7 @@
     "flag": "flag-tj",
     "name": {
       "common": "Tajikistan",
+      "tur": "Tacikistan",
       "ces": "Tádžikistán",
       "deu": "Tadschikistan",
       "fra": "Tadjikistan",
@@ -6180,7 +6181,6 @@
       "zho": "塔吉克斯坦",
       "pol": "Tadżykistan",
       "urd": "تاجکستان",
-      "tur": "Türkçe",
       "kor": "타지키스탄"
     }
   },
@@ -6192,6 +6192,7 @@
     "flag": "flag-tz",
     "name": {
       "common": "Tanzania",
+      "tur": "Tanzanya",
       "ces": "Tanzanie",
       "deu": "Tansania",
       "fra": "Tanzanie",
@@ -6208,7 +6209,6 @@
       "zho": "坦桑尼亚",
       "pol": "Tanzania",
       "urd": "تنزانیہ",
-      "tur": "Türkçe",
       "kor": "탄자니아"
     }
   },
@@ -6220,6 +6220,7 @@
     "flag": "flag-th",
     "name": {
       "common": "Thailand",
+      "tur": "Tayland",
       "ces": "Thajsko",
       "deu": "Thailand",
       "fra": "Thaïlande",
@@ -6236,7 +6237,6 @@
       "zho": "泰国",
       "pol": "Tajlandia",
       "urd": "تھائی لینڈ",
-      "tur": "Türkçe",
       "kor": "태국"
     }
   },
@@ -6248,6 +6248,7 @@
     "flag": "flag-tl",
     "name": {
       "common": "Timor-Leste",
+      "tur": "Doğu Timor",
       "ces": "Východní Timor",
       "deu": "Osttimor",
       "fra": "Timor oriental",
@@ -6264,7 +6265,6 @@
       "zho": "东帝汶",
       "pol": "Timor Wschodni",
       "urd": "مشرقی تیمور",
-      "tur": "Türkçe",
       "kor": "동티모르"
     }
   },
@@ -6276,6 +6276,7 @@
     "flag": "flag-tg",
     "name": {
       "common": "Togo",
+      "tur": "Togo",
       "ces": "Togo",
       "deu": "Togo",
       "fra": "Togo",
@@ -6292,7 +6293,6 @@
       "zho": "多哥",
       "pol": "Togo",
       "urd": "ٹوگو",
-      "tur": "Türkçe",
       "kor": "토고"
     }
   },
@@ -6304,6 +6304,7 @@
     "flag": "flag-tk",
     "name": {
       "common": "Tokelau",
+      "tur": "Tokelau",
       "ces": "Tokelau",
       "deu": "Tokelau",
       "fra": "Tokelau",
@@ -6320,7 +6321,6 @@
       "zho": "托克劳",
       "pol": "Tokelau",
       "urd": "ٹوکیلاؤ",
-      "tur": "Türkçe",
       "kor": "토켈라우"
     }
   },
@@ -6332,6 +6332,7 @@
     "flag": "flag-to",
     "name": {
       "common": "Tonga",
+      "tur": "Tonga",
       "ces": "Tonga",
       "deu": "Tonga",
       "fra": "Tonga",
@@ -6348,7 +6349,6 @@
       "zho": "汤加",
       "pol": "Tonga",
       "urd": "ٹونگا",
-      "tur": "Türkçe",
       "kor": "통가"
     }
   },
@@ -6360,6 +6360,7 @@
     "flag": "flag-tt",
     "name": {
       "common": "Trinidad and Tobago",
+      "tur": "Trinidad ve Tobago",
       "ces": "Trinidad a Tobago",
       "deu": "Trinidad und Tobago",
       "fra": "Trinité-et-Tobago",
@@ -6376,7 +6377,6 @@
       "zho": "特立尼达和多巴哥",
       "pol": "Trynidad i Tobago",
       "urd": "ٹرینیڈاڈ و ٹوباگو",
-      "tur": "Türkçe",
       "kor": "트리니다드 토바고"
     }
   },
@@ -6388,6 +6388,7 @@
     "flag": "flag-tn",
     "name": {
       "common": "Tunisia",
+      "tur": "Tunus",
       "ces": "Tunisko",
       "deu": "Tunesien",
       "fra": "Tunisie",
@@ -6403,8 +6404,7 @@
       "est": "Tuneesia",
       "zho": "突尼斯",
       "pol": "Tunezja",
-      "urd": "تونس",
-      "tur": "Türkçe",  
+      "urd": "تونس",  
       "kor": "튀니지"
     }
   },
@@ -6415,7 +6415,8 @@
     "subregion": "Western Asia",
     "flag": "flag-tr",
     "name": {
-      "common": "Turkey",
+      "common": "Türkiye",
+      "tur": "Türkiye",
       "ces": "Turecko",
       "deu": "Türkei",
       "fra": "Turquie",
@@ -6432,7 +6433,6 @@
       "zho": "土耳其",
       "pol": "Turcja",
       "urd": "ترکی",
-      "tur": "Türkçe",
       "kor": "터키"
     }
   },
@@ -6444,6 +6444,7 @@
     "flag": "flag-tm",
     "name": {
       "common": "Turkmenistan",
+      "tur": "Türkmenistan",
       "ces": "Turkmenistán",
       "deu": "Turkmenistan",
       "fra": "Turkménistan",
@@ -6460,7 +6461,6 @@
       "zho": "土库曼斯坦",
       "pol": "Turkmenistan",
       "urd": "ترکمانستان",
-      "tur": "Türkçe",
       "kor": "투르크메니스탄"
     }
   },
@@ -6472,6 +6472,7 @@
     "flag": "flag-tc",
     "name": {
       "common": "Turks and Caicos Islands",
+      "tur": "Turks ve Caicos Adaları",
       "ces": "Turks a Caicos",
       "deu": "Turks-und Caicosinseln",
       "fra": "Îles Turques-et-Caïques",
@@ -6488,7 +6489,6 @@
       "zho": "特克斯和凯科斯群岛",
       "pol": "Turks i Caicos",
       "urd": "جزائر کیکس و ترکیہ",
-      "tur": "Türkçe",
       "kor": "터크스 케이커스 제도"
     }
   },
@@ -6500,6 +6500,7 @@
     "flag": "flag-tv",
     "name": {
       "common": "Tuvalu",
+      "tur": "Tuvalu",
       "ces": "Tuvalu",
       "deu": "Tuvalu",
       "fra": "Tuvalu",
@@ -6516,7 +6517,6 @@
       "zho": "图瓦卢",
       "pol": "Tuvalu",
       "urd": "تووالو",
-      "tur": "Türkçe",
       "kor": "투발루"
     }
   },
@@ -6528,6 +6528,7 @@
     "flag": "flag-ug",
     "name": {
       "common": "Uganda",
+      "tur": "Uganda",
       "ces": "Uganda",
       "deu": "Uganda",
       "fra": "Ouganda",
@@ -6544,7 +6545,6 @@
       "zho": "乌干达",
       "pol": "Uganda",
       "urd": "یوگنڈا",
-      "tur": "Türkçe",
       "kor": "우간다"
     }
   },
@@ -6556,6 +6556,7 @@
     "flag": "flag-ua",
     "name": {
       "common": "Ukraine",
+      "tur": "Ukrayna",
       "ces": "Ukrajina",
       "deu": "Ukraine",
       "fra": "Ukraine",
@@ -6572,7 +6573,6 @@
       "zho": "乌克兰",
       "pol": "Ukraina",
       "urd": "یوکرین",
-      "tur": "Türkçe",
       "kor": "우크라이나"
     }
   },
@@ -6584,6 +6584,7 @@
     "flag": "flag-ae",
     "name": {
       "common": "United Arab Emirates",
+      "tur": "Birleşik Arap Emirlikleri",
       "ces": "Spojené arabské emiráty",
       "deu": "Vereinigte Arabische Emirate",
       "fra": "Émirats arabes unis",
@@ -6600,7 +6601,6 @@
       "zho": "阿拉伯联合酋长国",
       "pol": "Zjednoczone Emiraty Arabskie",
       "urd": "متحدہ عرب امارات",
-      "tur": "Türkçe",
       "kor": "아랍에미리트"
     }
   },
@@ -6612,6 +6612,7 @@
     "flag": "flag-gb",
     "name": {
       "common": "United Kingdom",
+      "tur": "Birleşik Krallık",
       "ces": "Spojené království",
       "deu": "Vereinigtes Königreich",
       "fra": "Royaume-Uni",
@@ -6628,7 +6629,6 @@
       "zho": "英国",
       "pol": "Zjednoczone Krłlestwo",
       "urd": "مملکتِ متحدہ",
-      "tur": "Türkçe",
       "kor": "영국"
     }
   },
@@ -6640,6 +6640,7 @@
     "flag": "flag-us",
     "name": {
       "common": "United States",
+      "tur": "Birleşik Devletler",
       "ces": "Spojené státy",
       "deu": "Vereinigte Staaten",
       "fra": "États-Unis",
@@ -6656,7 +6657,6 @@
       "zho": "美国",
       "pol": "Stany Zjednoczone",
       "urd": "ریاستہائے متحدہ",
-      "tur": "Amerika Birleşik Devletleri",
       "kor": "미국"
     }
   },
@@ -6668,6 +6668,7 @@
     "flag": "flag-um",
     "name": {
       "common": "United States Minor Outlying Islands",
+      "tur": "Amerika Birleşik Devletleri Küçük Dış Adaları",
       "ces": "Menší odlehlé ostrovy USA",
       "deu": "Kleinere Inselbesitzungen der Vereinigten Staaten",
       "fra": "Îles mineures éloignées des États-Unis",
@@ -6684,7 +6685,6 @@
       "zho": "美国本土外小岛屿",
       "pol": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych",
       "urd": "امریکی چھوٹے بیرونی جزائر",
-      "tur": "Türkçe",
       "kor": "미국령 군소 제도"
     }
   },
@@ -6696,6 +6696,7 @@
     "flag": "flag-vi",
     "name": {
       "common": "United States Virgin Islands",
+      "tur": "Birleşik Devletler Virgin Adaları",
       "ces": "Americké Panenské ostrovy",
       "deu": "Amerikanische Jungferninseln",
       "fra": "Îles Vierges des États-Unis",
@@ -6712,7 +6713,6 @@
       "zho": "美属维尔京群岛",
       "pol": "Wyspy Dziewicze Stanów Zjednoczonych",
       "urd": "امریکی جزائر ورجن",
-      "tur": "Türkçe",
       "kor": "미국령 버진아일랜드"
     }
   },
@@ -6724,6 +6724,7 @@
     "flag": "flag-uy",
     "name": {
       "common": "Uruguay",
+      "tur": "Uruguay",
       "ces": "Uruguay",
       "deu": "Uruguay",
       "fra": "Uruguay",
@@ -6740,7 +6741,6 @@
       "zho": "乌拉圭",
       "pol": "Urugwaj",
       "urd": "یوراگوئے",
-      "tur": "Türkçe",
       "kor": "우루과이"
     }
   },
@@ -6752,6 +6752,7 @@
     "flag": "flag-uz",
     "name": {
       "common": "Uzbekistan",
+      "tur": "Özbekistan",
       "ces": "Uzbekistán",
       "deu": "Usbekistan",
       "fra": "Ouzbékistan",
@@ -6768,7 +6769,6 @@
       "zho": "乌兹别克斯坦",
       "pol": "Uzbekistan",
       "urd": "ازبکستان",
-      "tur": "Türkçe",
       "kor": "우즈베키스탄"
     }
   },
@@ -6780,6 +6780,7 @@
     "flag": "flag-vu",
     "name": {
       "common": "Vanuatu",
+      "tur": "Vanuatu",
       "ces": "Vanuatu",
       "deu": "Vanuatu",
       "fra": "Vanuatu",
@@ -6796,7 +6797,6 @@
       "zho": "瓦努阿图",
       "pol": "Vanuatu",
       "urd": "وانواتو",
-      "tur": "Türkçe",
       "kor": "바누아투"
     }
   },
@@ -6808,6 +6808,7 @@
     "flag": "flag-va",
     "name": {
       "common": "Vatican City",
+      "tur": "Vatikan Şehri",
       "ces": "Vatikán",
       "deu": "Vatikanstadt",
       "fra": "Cité du Vatican",
@@ -6824,7 +6825,6 @@
       "zho": "梵蒂冈",
       "pol": "Watykan",
       "urd": "ویٹیکن سٹی",
-      "tur": "Türkçe",
       "kor": "바티칸"
     }
   },
@@ -6836,6 +6836,7 @@
     "flag": "flag-ve",
     "name": {
       "common": "Venezuela",
+      "tur": "Venezuela",
       "ces": "Venezuela",
       "deu": "Venezuela",
       "fra": "Venezuela",
@@ -6852,7 +6853,6 @@
       "zho": "委内瑞拉",
       "pol": "Wenezuela",
       "urd": "وینیزویلا",
-      "tur": "Türkçe",
       "kor": "베네수엘라"
     }
   },
@@ -6864,6 +6864,7 @@
     "flag": "flag-vn",
     "name": {
       "common": "Vietnam",
+      "tur": "Vietnam",
       "ces": "Vietnam",
       "deu": "Vietnam",
       "fra": "Viêt Nam",
@@ -6880,7 +6881,6 @@
       "zho": "越南",
       "pol": "Wietnam",
       "urd": "ویتنام",
-      "tur": "Türkçe",
       "kor": "베트남"
     }
   },
@@ -6892,6 +6892,7 @@
     "flag": "flag-wf",
     "name": {
       "common": "Wallis and Futuna",
+      "tur": "Wallis ve Futuna",
       "ces": "Wallis a Futuna",
       "deu": "Wallis und Futuna",
       "fra": "Wallis-et-Futuna",
@@ -6908,7 +6909,6 @@
       "zho": "瓦利斯和富图纳群岛",
       "pol": "Wallis i Futuna",
       "urd": "والس و فتونہ",
-      "tur": "Türkçe",
       "kor": ""
     }
   },
@@ -6920,6 +6920,7 @@
     "flag": "flag-eh",
     "name": {
       "common": "Western Sahara",
+      "tur": "Batı Sahra",
       "ces": "Západní Sahara",
       "deu": "Westsahara",
       "fra": "Sahara Occidental",
@@ -6936,7 +6937,6 @@
       "zho": "西撒哈拉",
       "pol": "Sahara Zachodnia",
       "urd": "مغربی صحارا",
-      "tur": "Türkçe",
       "kor": "서사하라"
     }
   },
@@ -6948,6 +6948,7 @@
     "flag": "flag-ye",
     "name": {
       "common": "Yemen",
+      "tur": "Yemen",
       "ces": "Jemen",
       "deu": "Jemen",
       "fra": "Yémen",
@@ -6964,7 +6965,6 @@
       "zho": "也门",
       "pol": "Jemen",
       "urd": "یمن",
-      "tur": "Türkçe",
       "kor": "예멘"
     }
   },
@@ -6976,6 +6976,7 @@
     "flag": "flag-zm",
     "name": {
       "common": "Zambia",
+      "tur": "Zambiya",
       "ces": "Zambie",
       "deu": "Sambia",
       "fra": "Zambie",
@@ -6992,7 +6993,6 @@
       "zho": "赞比亚",
       "pol": "Zambia",
       "urd": "زیمبیا",
-      "tur": "Türkçe",
       "kor": "잠비아"
     }
   },
@@ -7004,6 +7004,7 @@
     "flag": "flag-zw",
     "name": {
       "common": "Zimbabwe",
+      "tur": "Zimbabve",
       "ces": "Zimbabwe",
       "deu": "Simbabwe",
       "fra": "Zimbabwe",
@@ -7020,7 +7021,6 @@
       "zho": "津巴布韦",
       "pol": "Zimbabwe",
       "urd": "زمبابوے",
-      "tur": "Türkçe",
       "kor": "짐바브웨"
     }
   },
@@ -7032,6 +7032,7 @@
     "flag": "flag-ax",
     "name": {
       "common": "Åland Islands",
+      "tur": "Åland Adaları",
       "ces": "Ålandy",
       "deu": "Åland",
       "fra": "Ahvenanmaa",
@@ -7048,7 +7049,6 @@
       "zho": "奥兰群岛",
       "pol": "Wyspy Alandzkie",
       "urd": "جزائر اولند",
-      "tur": "Türkçe",
       "kor": "올란드 제도"
     }
   }
